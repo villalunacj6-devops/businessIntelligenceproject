@@ -1,0 +1,1201 @@
+Student_ID,Academic_Year,Semester,Academic_Term,College,College_Short,Program,Year_Level,Municipality,Section_Size,Prior_GWA,Midterm_Grade,Attendance_Rate,LMS_Login_Frequency,Units_Enrolled,Distance_From_Campus_KM,Scholarship_Status,Final_Grade,Dropped_Out,On_Time_Grad
+22-71000,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,41,1.25,1.25,100.0,8,21,3.7,0,1.25,0,1
+23-71001,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,3,Tuy,43,2.0,1.75,92.8,8,21,13.5,0,1.5,0,0
+25-71002,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,1,Nasugbu,37,2.5,2.25,82.4,6,21,1.1,1,2.25,0,0
+25-71003,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,38,2.0,2.0,95.8,10,21,1.7,1,1.75,0,0
+25-71004,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,1,Lian,55,2.5,2.5,98.2,12,21,11.3,1,2.75,0,0
+25-71005,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Lian,50,2.0,2.25,100.0,11,15,11.8,1,2.25,0,0
+25-71006,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,1,Lemery,52,2.25,2.5,79.8,5,21,43.9,1,2.5,0,0
+25-71007,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Tuy,34,2.5,2.0,82.2,6,24,18.5,1,1.75,0,0
+24-71008,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Lian,34,2.0,2.25,80.5,12,15,10.1,1,2.0,0,0
+23-71009,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Balayan,52,2.25,2.5,87.8,8,18,29.8,1,2.75,0,0
+24-71010,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Calaca,55,2.25,2.25,89.5,4,21,36.5,1,2.25,1,0
+23-71011,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,3,Nasugbu,35,1.75,1.5,84.9,14,21,3.7,1,1.5,0,0
+25-71012,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,1,Taal,57,2.25,2.75,80.2,11,21,51.2,0,3.0,0,0
+22-71013,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,36,3.0,2.75,72.6,8,18,9.4,0,2.75,0,1
+22-71014,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,4,Balayan,29,2.25,1.5,95.2,10,21,24.9,0,1.25,1,0
+23-71015,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,3,Nasugbu,40,2.0,2.5,76.9,11,18,5.8,1,2.5,0,0
+22-71016,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,4,Nasugbu,42,2.75,2.25,91.8,10,21,12.2,1,2.25,0,1
+22-71017,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,4,Lian,31,2.25,2.75,88.7,16,21,11.7,1,2.5,0,1
+24-71018,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,2,Tuy,41,2.25,2.25,87.9,8,18,19.8,1,2.0,0,0
+25-71019,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Nasugbu,44,2.0,2.0,88.9,11,21,4.4,1,2.25,0,0
+23-71020,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Nasugbu,29,2.25,2.25,80.9,9,24,5.7,1,2.0,0,0
+23-71021,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,3,Lian,40,2.25,2.0,86.6,9,21,12.9,1,1.75,0,0
+23-71022,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Calatagan,45,2.0,2.0,90.1,8,24,30.9,0,2.0,0,0
+24-71023,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,45,1.75,2.25,99.7,15,21,4.4,1,2.5,0,0
+25-71024,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,50,2.5,2.25,88.3,7,21,1.0,1,2.25,0,0
+24-71025,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,2,Lian,45,2.5,2.5,78.2,13,15,10.5,1,2.5,1,0
+22-71026,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,4,Nasugbu,28,2.0,2.0,83.3,9,18,2.2,1,1.75,0,1
+24-71027,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Balayan,47,1.5,1.75,96.9,16,18,28.8,0,1.75,0,0
+24-71028,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Psychology,2,Balayan,37,2.25,2.75,79.3,9,21,23.9,1,2.5,1,0
+25-71029,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Lian,58,2.0,2.5,88.9,9,24,9.7,0,2.75,0,0
+24-71030,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,32,2.0,2.25,98.1,4,18,6.9,1,2.25,0,0
+22-71031,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,4,Balayan,36,2.0,2.0,80.2,12,21,26.3,1,2.0,0,1
+23-71032,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,3,Lian,57,1.75,2.75,89.1,8,21,6.2,1,2.5,0,0
+23-71033,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,3,Balayan,43,1.5,1.5,89.3,10,21,28.6,1,1.25,0,0
+24-71034,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Tuy,41,2.0,1.5,98.0,10,18,18.0,1,1.75,0,0
+23-71035,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Balayan,37,2.25,2.75,81.4,2,21,27.5,1,2.5,1,0
+25-71036,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Psychology,1,Lian,37,1.75,1.75,99.7,18,18,9.2,1,1.75,0,0
+23-71037,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,3,Nasugbu,48,2.25,2.25,87.6,10,15,9.4,1,2.25,0,0
+24-71038,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,2,Calaca,44,2.0,2.5,78.7,8,24,32.1,1,2.25,1,0
+24-71039,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,2,Lian,51,2.25,2.5,89.7,6,18,18.1,0,2.5,1,0
+23-71040,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Tuy,40,2.75,3.0,79.5,4,15,18.5,1,3.0,0,0
+22-71041,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,32,2.0,2.0,91.7,6,24,5.0,1,2.75,0,1
+25-71042,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,1,Tuy,56,2.5,2.25,100.0,8,18,18.1,1,2.25,0,0
+22-71043,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,4,Lian,38,2.0,1.5,95.4,9,21,9.5,0,1.5,0,1
+25-71044,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,46,1.75,2.0,88.0,8,18,2.5,0,1.75,0,0
+24-71045,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,55,2.25,1.75,97.9,11,18,6.0,1,1.5,0,0
+25-71046,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Tuy,48,2.25,2.5,81.6,5,18,16.0,1,2.25,0,0
+25-71047,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,1,Balayan,34,2.5,2.75,78.0,13,18,28.9,1,2.5,0,0
+24-71048,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,2,Lian,34,2.25,2.25,87.6,10,21,5.5,0,2.25,0,0
+25-71049,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,33,2.0,2.0,88.9,9,21,5.2,0,2.0,0,0
+24-71050,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Tuy,30,2.75,2.75,75.7,9,21,21.6,0,2.75,1,0
+22-71051,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,4,Nasugbu,41,2.0,2.25,89.0,7,24,1.3,1,2.25,0,1
+25-71052,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,1,Lian,34,1.5,2.0,85.7,11,15,12.7,1,1.75,0,0
+23-71053,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,3,Nasugbu,32,2.25,2.0,99.5,7,21,4.6,0,2.0,0,0
+24-71054,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,45,2.25,1.5,78.3,18,21,8.5,1,1.5,0,0
+23-71055,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,3,Nasugbu,35,2.5,2.75,78.8,9,24,2.4,1,2.5,0,0
+25-71056,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Nasugbu,50,1.75,2.0,90.5,13,15,11.5,1,1.75,0,0
+25-71057,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,47,2.0,1.75,97.4,6,21,1.0,0,1.5,0,0
+25-71058,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Nasugbu,54,1.75,2.25,94.7,12,24,3.7,1,1.75,0,0
+25-71059,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,1,Lian,44,2.25,2.25,92.3,14,18,6.8,1,2.0,0,0
+25-71060,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Lian,57,2.25,2.25,86.3,8,24,15.6,1,2.5,0,0
+23-71061,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,3,Nasugbu,37,2.0,1.75,93.4,12,15,3.8,1,1.75,0,0
+22-71062,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,4,Balayan,42,2.25,2.25,91.9,6,21,27.6,1,2.25,0,1
+23-71063,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,3,Nasugbu,39,1.75,1.75,88.5,13,24,5.6,1,2.0,0,0
+23-71064,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,3,Lian,41,2.5,2.25,80.3,10,21,11.0,1,2.0,0,0
+25-71065,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,1,Nasugbu,43,2.5,2.5,81.9,5,21,3.0,1,2.5,0,0
+25-71066,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,46,2.5,2.5,97.5,13,15,1.4,0,2.25,0,0
+25-71067,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,1,Lian,36,2.25,2.75,78.1,10,24,11.4,1,2.75,0,0
+25-71068,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,1,Lian,41,2.25,2.25,100.0,5,21,11.9,1,2.25,0,0
+24-71069,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,2,Calatagan,45,2.5,2.25,78.9,6,15,35.7,0,2.25,0,0
+24-71070,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,2,Lian,36,1.75,2.25,90.6,10,21,15.8,1,2.25,0,0
+24-71071,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BS Psychology,2,Calaca,43,2.5,2.5,88.2,13,21,30.6,1,2.5,0,0
+24-71072,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,42,2.0,2.0,85.7,10,18,4.3,1,2.0,0,0
+22-71073,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,4,Nasugbu,41,2.0,2.0,86.7,11,18,7.5,1,1.75,1,0
+23-71074,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,3,Nasugbu,49,2.0,2.0,91.6,10,15,4.2,1,2.25,0,0
+25-71075,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,1,Nasugbu,37,2.25,2.25,85.2,7,21,1.0,1,2.0,0,0
+22-71076,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,4,Lian,39,2.0,2.0,82.3,16,21,7.8,1,1.75,0,1
+22-71077,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BA Communication,4,Tuy,46,2.25,2.0,80.4,8,21,20.3,1,2.0,0,1
+25-71078,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Nasugbu,50,2.0,2.0,99.2,10,21,5.2,1,2.25,0,0
+24-71079,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,2,Lemery,53,2.0,2.75,85.2,10,24,45.7,1,2.75,0,0
+24-71080,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,2,Calatagan,31,2.25,2.0,77.2,11,21,32.0,1,2.0,0,0
+22-71081,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,39,2.0,2.0,94.6,8,15,5.1,1,1.75,0,1
+22-71082,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,4,Nasugbu,38,2.0,1.75,85.8,12,21,2.1,1,1.5,0,1
+25-71083,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,1,Nasugbu,42,2.0,2.5,76.4,3,21,5.1,1,2.0,0,0
+24-71084,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Nasugbu,36,2.0,2.25,95.6,8,21,4.6,1,2.0,0,0
+24-71085,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,2,Nasugbu,46,1.75,1.5,100.0,12,21,2.4,1,1.25,0,0
+24-71086,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,2,Lian,41,1.75,1.25,92.5,13,18,14.9,0,1.25,0,0
+25-71087,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,55,2.0,2.5,77.7,8,24,1.0,0,3.0,0,0
+22-71088,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,4,Nasugbu,43,2.25,1.75,88.3,5,18,4.1,1,1.75,0,1
+23-71089,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,3,Taal,54,2.5,2.75,80.3,11,21,45.9,1,2.25,0,0
+22-71090,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,4,Tuy,37,2.25,2.0,89.4,7,15,24.1,1,1.75,0,1
+22-71091,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,4,Lemery,53,2.5,2.75,76.3,12,24,45.5,0,2.5,1,0
+23-71092,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,3,Nasugbu,47,2.0,2.25,88.5,7,15,2.9,1,2.0,1,0
+24-71093,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Nasugbu,33,2.25,2.0,78.3,7,15,3.8,1,2.0,0,0
+23-71094,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,3,Lian,40,2.5,2.0,90.0,11,18,15.7,1,2.0,0,0
+25-71095,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,1,Nasugbu,38,2.5,2.5,78.9,7,18,2.1,1,2.25,0,0
+23-71096,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,3,Nasugbu,47,2.25,2.0,92.2,12,18,1.0,0,2.0,0,0
+25-71097,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,1,Tuy,37,2.0,2.25,82.1,11,21,20.2,1,2.25,0,0
+23-71098,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,3,Tuy,41,2.25,2.0,64.8,9,21,20.3,1,2.0,0,0
+25-71099,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,45,2.0,2.0,96.0,15,15,6.2,1,2.0,0,0
+25-71100,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Lian,53,1.75,2.0,92.5,10,18,12.7,1,2.25,0,0
+25-71101,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BA Communication,1,Nasugbu,47,1.25,1.75,99.5,5,21,8.9,1,1.75,0,0
+25-71102,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,1,Nasugbu,39,2.25,2.0,76.3,16,21,1.0,1,1.75,0,0
+23-71103,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,3,Nasugbu,35,2.25,2.0,84.3,14,21,1.5,1,1.75,0,0
+23-71104,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,3,Nasugbu,47,2.0,1.5,89.0,9,21,6.2,1,1.25,0,0
+24-71105,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,2,Nasugbu,38,1.75,1.5,93.1,18,18,1.7,1,1.75,0,0
+25-71106,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,1,Calaca,50,2.25,2.25,74.5,5,15,32.4,1,2.0,1,0
+25-71107,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Lian,41,1.5,1.75,91.5,10,18,15.7,1,2.0,0,0
+25-71108,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Tuy,48,2.0,2.5,82.1,10,24,15.5,1,2.25,0,0
+25-71109,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,52,2.0,2.0,77.4,10,24,3.6,1,2.25,1,0
+22-71110,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,4,Nasugbu,47,2.0,2.5,83.0,12,21,4.4,0,2.75,0,1
+25-71111,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,1,Nasugbu,45,1.75,1.75,93.6,7,15,7.8,1,2.0,0,0
+24-71112,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,2,Nasugbu,36,2.0,1.75,76.0,7,18,1.0,1,1.5,0,0
+25-71113,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,49,1.75,1.5,95.0,9,18,5.5,1,1.5,0,0
+25-71114,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,1,Balayan,56,2.25,2.5,88.4,4,21,25.8,1,2.5,0,0
+24-71115,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Tuy,35,2.0,2.0,83.3,11,15,21.1,1,1.75,1,0
+24-71116,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,2,Lian,41,2.0,2.25,78.0,9,24,8.7,1,2.25,0,0
+25-71117,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Lian,46,2.5,2.5,75.1,13,18,14.9,0,2.75,0,0
+25-71118,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,1,Lemery,41,2.25,2.25,78.1,12,24,41.7,1,2.0,0,0
+24-71119,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,2,Nasugbu,34,1.5,1.75,81.0,11,21,1.0,0,1.75,0,0
+25-71120,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Nasugbu,50,2.25,2.75,88.6,11,21,2.5,1,2.5,0,0
+25-71121,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,1,Nasugbu,45,2.0,1.75,95.1,11,21,3.8,1,1.5,0,0
+22-71122,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BA Communication,4,Balayan,36,2.5,2.75,83.4,6,21,30.7,1,2.75,0,1
+23-71123,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,3,Taal,51,2.25,2.5,80.4,6,21,44.9,1,2.5,1,0
+24-71124,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,35,2.5,2.25,86.9,11,21,1.4,1,2.25,0,0
+24-71125,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Calatagan,38,2.0,2.25,91.5,10,21,36.4,1,2.0,0,0
+24-71126,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,2,Balayan,55,1.25,1.0,95.9,13,24,24.6,1,1.5,0,0
+24-71127,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Nasugbu,29,1.75,1.75,91.5,11,21,4.1,1,1.25,0,0
+23-71128,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,3,Nasugbu,48,2.25,2.0,91.7,11,21,4.1,1,2.0,0,0
+23-71129,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,3,Nasugbu,34,2.0,2.5,90.0,17,24,5.0,1,2.5,0,0
+25-71130,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,1,Calaca,58,2.0,2.25,95.0,4,18,34.1,1,2.25,0,0
+24-71131,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Nasugbu,41,1.75,1.75,92.3,12,15,2.2,1,1.75,0,0
+24-71132,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,2,Balayan,56,2.0,2.25,96.7,8,21,28.8,1,2.5,0,0
+22-71133,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Psychology,4,Nasugbu,37,2.0,1.75,88.0,9,21,2.3,1,2.0,0,1
+23-71134,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BA Communication,3,Balayan,33,2.25,2.25,74.8,2,24,24.6,1,2.25,0,0
+24-71135,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,2,Lian,41,2.25,2.5,83.9,10,21,14.1,1,2.5,0,0
+25-71136,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,1,Lian,29,2.25,1.75,82.8,8,21,12.2,1,1.5,0,0
+24-71137,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,2,Balayan,49,2.0,2.25,96.6,9,21,32.4,1,2.25,0,0
+25-71138,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Balayan,46,1.75,1.75,90.8,4,15,30.0,1,1.75,0,0
+25-71139,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,1,Calatagan,39,2.5,2.75,78.6,8,21,30.8,0,2.25,0,0
+25-71140,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,44,2.5,2.25,94.2,9,24,4.7,1,2.25,0,0
+23-71141,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,3,Tuy,37,2.5,2.0,85.0,9,18,17.0,1,2.0,0,0
+25-71142,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Psychology,1,Nasugbu,30,2.25,2.0,100.0,7,21,1.0,1,2.25,0,0
+24-71143,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,2,Nasugbu,42,1.75,2.0,88.4,2,21,3.4,1,2.0,0,0
+22-71144,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,4,Lian,45,1.75,2.0,75.5,10,18,13.5,0,2.0,0,1
+25-71145,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,56,2.0,2.25,89.1,11,18,5.2,1,2.25,0,0
+24-71146,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Lian,39,2.25,2.25,85.4,7,24,7.5,1,2.25,1,0
+24-71147,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Taal,44,2.25,2.5,70.3,4,18,46.8,0,2.5,1,0
+25-71148,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,1,Nasugbu,57,2.0,2.5,94.9,9,18,4.1,1,2.25,0,0
+23-71149,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,3,Tuy,37,1.75,1.75,96.5,7,18,15.3,1,1.75,0,0
+25-71150,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BA Communication,1,Nasugbu,38,2.75,2.5,80.0,5,21,6.3,1,2.75,0,0
+24-71151,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,2,Nasugbu,33,2.5,2.0,95.5,11,21,3.9,1,2.25,0,0
+24-71152,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Nasugbu,49,1.75,2.25,86.9,13,21,1.0,1,2.25,0,0
+23-71153,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,3,Lemery,36,1.75,2.75,81.0,1,15,40.4,1,2.75,0,0
+23-71154,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,3,Calatagan,42,2.25,2.25,81.0,6,24,36.8,1,2.5,0,0
+25-71155,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BS Psychology,1,Calatagan,29,2.5,2.5,82.5,2,18,33.0,1,2.25,0,0
+25-71156,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BA Communication,1,Taal,50,2.25,2.5,84.7,3,18,51.0,1,2.5,0,0
+23-71157,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Nasugbu,45,2.25,2.5,82.4,6,21,8.4,1,2.0,0,0
+24-71158,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Nasugbu,44,1.75,1.75,97.2,11,18,7.1,1,2.0,0,0
+22-71159,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,4,Tuy,51,2.25,2.0,91.5,4,24,18.2,0,2.0,0,1
+22-71160,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,4,Lian,39,2.25,2.5,96.6,3,24,4.8,1,2.5,0,1
+22-71161,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,4,Nasugbu,55,2.25,2.5,84.8,7,18,5.3,1,2.5,0,1
+24-71162,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,2,Nasugbu,48,2.25,2.25,81.5,12,24,9.7,1,2.25,0,0
+25-71163,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Lian,35,1.5,1.5,95.6,9,21,10.9,1,1.5,0,0
+23-71164,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Hospitality Management,3,Lian,40,2.75,2.5,82.0,14,24,6.0,1,2.5,0,0
+24-71165,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,2,Nasugbu,30,1.5,1.25,89.8,12,18,2.8,0,1.5,0,0
+25-71166,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,1,Lian,42,2.0,2.25,96.7,9,21,10.5,1,2.25,0,0
+22-71167,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,4,Lian,48,2.0,2.25,86.7,10,18,8.3,0,2.0,0,1
+22-71168,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,4,Lian,44,2.0,2.0,99.0,3,24,4.6,1,2.25,0,1
+24-71169,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,2,Nasugbu,46,2.5,2.0,86.5,7,15,4.3,1,1.75,0,0
+25-71170,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BA Communication,1,Balayan,51,2.0,2.25,77.1,13,21,26.0,1,2.25,0,0
+24-71171,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,2,Nasugbu,41,2.0,2.25,92.4,9,18,8.9,1,2.0,0,0
+23-71172,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,3,Nasugbu,43,1.75,1.75,89.8,11,18,4.8,1,1.75,0,0
+22-71173,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,4,Balayan,35,2.25,2.25,100.0,9,21,29.2,1,2.0,0,1
+25-71174,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Lian,49,2.25,2.5,82.6,7,24,10.7,1,2.25,0,0
+25-71175,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,45,2.25,2.0,86.5,10,21,4.7,0,2.0,0,0
+22-71176,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,4,Tuy,36,2.25,2.0,83.2,12,24,15.4,0,1.75,0,1
+24-71177,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,2,Lian,44,2.5,2.25,88.8,15,18,8.4,1,2.5,0,0
+24-71178,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Balayan,38,2.75,2.25,81.8,12,21,30.7,1,2.0,0,0
+22-71179,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,4,Balayan,54,2.25,2.5,79.5,5,21,28.5,1,2.25,0,1
+25-71180,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,1,Tuy,52,2.0,2.25,91.2,15,15,18.5,1,2.75,0,0
+23-71181,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,3,Lian,46,2.0,2.25,87.5,10,21,12.2,0,2.25,0,0
+25-71182,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,39,2.25,2.25,97.8,9,21,5.8,1,2.75,0,0
+24-71183,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,2,Nasugbu,40,2.25,2.25,82.7,15,21,9.5,1,1.75,0,0
+23-71184,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,3,Nasugbu,37,1.75,1.75,100.0,7,21,4.9,1,1.75,0,0
+24-71185,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Lian,45,2.25,2.0,91.8,12,21,8.3,1,2.0,0,0
+22-71186,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,4,Lian,42,2.25,2.0,98.5,8,15,10.7,1,2.0,0,1
+24-71187,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,2,Nasugbu,28,1.75,2.25,88.9,9,15,6.0,1,2.25,0,0
+25-71188,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Psychology,1,Nasugbu,44,2.0,2.25,82.3,16,21,7.0,1,2.5,0,0
+25-71189,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,1,Lian,31,2.0,2.0,86.0,18,18,7.0,1,2.0,0,0
+24-71190,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,2,Nasugbu,49,2.25,2.0,80.5,5,15,5.1,1,1.75,0,0
+24-71191,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,2,Balayan,32,1.75,2.0,83.3,11,21,25.8,1,1.75,1,0
+25-71192,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,1,Nasugbu,47,1.5,1.5,89.9,12,21,3.1,1,1.25,0,0
+24-71193,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,2,Lian,56,2.0,2.0,89.2,6,18,13.1,1,2.0,0,0
+24-71194,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Lemery,36,1.75,1.5,91.9,7,21,45.9,1,1.75,0,0
+23-71195,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,3,Nasugbu,58,2.25,2.25,89.9,9,21,2.8,1,2.25,0,0
+23-71196,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Lian,45,2.25,2.5,75.7,8,18,10.6,1,2.5,0,0
+23-71197,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Nasugbu,28,2.0,2.0,100.0,8,21,3.2,1,1.75,0,0
+25-71198,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,1,Tuy,34,1.75,1.75,79.0,7,21,26.7,1,1.75,0,0
+25-71199,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Lian,57,1.75,2.0,96.1,7,21,11.7,1,2.25,0,0
+23-71200,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,3,Nasugbu,38,2.0,2.25,80.2,8,21,2.4,1,2.25,0,0
+24-71201,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,2,Lian,41,2.0,2.25,90.4,12,15,14.3,1,2.5,0,0
+25-71202,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Calatagan,41,2.0,2.0,78.3,16,21,37.4,1,1.75,0,0
+23-71203,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,3,Nasugbu,31,2.25,2.0,67.2,14,18,9.0,0,1.75,0,0
+23-71204,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,3,Nasugbu,31,2.5,2.25,85.3,8,24,9.7,0,2.25,1,0
+24-71205,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,2,Calatagan,53,1.75,2.75,84.0,9,21,35.8,1,2.75,0,0
+25-71206,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,1,Lian,58,1.75,2.0,87.9,8,21,10.1,1,2.0,0,0
+23-71207,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,3,Calatagan,37,2.25,2.25,86.6,10,18,33.5,1,2.25,0,0
+24-71208,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,2,Lian,47,2.25,2.75,87.5,4,18,10.3,1,2.5,0,0
+23-71209,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,3,Balayan,57,2.25,2.5,86.6,6,18,27.0,1,2.25,0,0
+23-71210,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,3,Lian,43,2.0,2.5,87.7,17,21,14.1,0,2.5,0,0
+23-71211,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,3,Balayan,55,2.5,2.5,85.6,8,18,28.0,1,2.75,0,0
+24-71212,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Lemery,42,1.75,1.5,81.0,4,21,46.4,0,1.75,0,0
+25-71213,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,1,Lian,29,2.5,2.25,80.3,5,18,12.7,1,2.5,0,0
+23-71214,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,3,Nasugbu,55,2.0,2.0,95.4,12,24,1.8,1,2.25,0,0
+23-71215,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,3,Nasugbu,38,1.75,1.5,87.1,5,15,1.0,1,1.75,0,0
+23-71216,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,3,Nasugbu,36,1.5,1.75,88.6,7,24,1.4,1,1.75,0,0
+25-71217,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,1,Nasugbu,52,1.75,2.25,94.5,11,24,3.4,1,2.25,0,0
+25-71218,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,1,Nasugbu,36,2.25,2.0,92.1,10,21,4.8,1,2.25,0,0
+22-71219,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Psychology,4,Lian,42,2.5,2.25,82.4,10,21,9.4,1,2.5,0,1
+23-71220,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Lian,55,2.0,2.5,97.9,11,21,12.8,1,2.5,0,0
+22-71221,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,4,Lian,29,2.25,2.0,78.8,5,21,9.7,1,1.75,0,1
+23-71222,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,3,Tuy,44,2.0,2.25,80.1,9,18,20.1,1,1.75,0,0
+24-71223,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,2,Nasugbu,50,2.0,1.75,95.4,11,18,4.8,1,2.0,0,0
+23-71224,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BS Psychology,3,Nasugbu,38,1.75,1.5,100.0,8,21,8.8,1,1.5,0,0
+22-71225,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,4,Nasugbu,29,2.5,2.25,84.7,9,21,2.1,1,2.25,0,1
+24-71226,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,2,Lian,43,1.75,2.25,89.0,7,21,16.5,1,2.5,0,0
+23-71227,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BA Communication,3,Nasugbu,46,2.25,2.0,82.3,18,18,3.0,0,1.75,0,0
+25-71228,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,40,2.75,2.25,82.4,8,18,1.1,1,1.75,1,0
+24-71229,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,47,2.0,2.0,98.9,14,15,4.0,1,2.0,0,0
+23-71230,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,3,Balayan,48,1.75,2.0,86.9,6,15,36.1,1,2.25,0,0
+25-71231,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,48,1.5,1.5,96.3,9,18,6.7,0,1.5,0,0
+25-71232,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,1,Tuy,39,2.25,2.0,92.9,2,15,21.0,1,1.75,0,0
+25-71233,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Tuy,46,2.25,2.5,70.0,11,15,21.5,1,2.5,0,0
+25-71234,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,1,Balayan,34,2.5,2.0,75.5,8,21,26.1,1,1.75,0,0
+25-71235,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,1,Lemery,39,2.25,2.25,84.5,5,15,44.8,1,2.0,0,0
+24-71236,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Nasugbu,35,2.0,2.0,76.2,10,21,4.5,1,2.0,0,0
+22-71237,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,43,2.0,2.5,82.1,11,18,9.0,1,2.5,0,1
+24-71238,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,2,Calatagan,51,1.75,2.25,95.0,10,24,33.7,1,2.25,0,0
+25-71239,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Lian,29,2.25,2.5,83.4,8,21,10.1,0,2.5,0,0
+25-71240,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Lian,36,1.75,1.75,92.8,9,18,8.1,1,1.5,0,0
+23-71241,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,3,Tuy,38,2.5,2.5,85.1,8,21,19.9,1,2.5,0,0
+24-71242,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Tuy,33,2.25,2.5,80.4,10,18,20.2,1,2.25,0,0
+22-71243,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,4,Lemery,51,2.5,2.75,71.3,8,21,41.0,1,2.75,1,0
+23-71244,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,3,Taal,50,1.75,2.0,83.4,4,15,49.1,1,2.0,0,0
+23-71245,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,3,Tuy,46,2.0,2.0,95.8,10,24,20.1,1,2.25,0,0
+25-71246,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,46,2.0,1.5,85.4,13,21,7.0,1,1.5,0,0
+23-71247,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,3,Calatagan,38,2.25,2.75,82.4,7,18,37.0,1,2.75,0,0
+25-71248,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Psychology,1,Nasugbu,38,2.5,2.25,77.4,8,21,4.7,1,2.25,1,0
+22-71249,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,34,2.0,2.0,84.1,7,18,1.9,0,2.0,0,1
+23-71250,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,3,Calatagan,29,2.0,1.75,85.4,4,24,31.9,1,2.0,0,0
+25-71251,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,1,Nasugbu,46,2.25,2.25,95.1,8,21,8.9,1,2.5,0,0
+25-71252,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Psychology,1,Nasugbu,31,1.75,2.0,92.3,15,21,4.9,1,2.25,0,0
+25-71253,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,1,Nasugbu,38,2.0,2.0,75.1,6,15,8.9,1,2.0,0,0
+23-71254,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,3,Calatagan,44,2.25,1.75,79.0,8,24,35.2,1,2.0,0,0
+25-71255,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BA Communication,1,Lian,32,2.5,2.25,79.8,12,21,12.9,0,2.25,0,0
+24-71256,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Tuy,34,2.0,2.25,82.7,9,18,21.8,1,2.0,0,0
+25-71257,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,53,2.5,2.5,90.4,8,18,1.4,1,2.75,1,0
+23-71258,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,3,Balayan,28,1.5,1.75,91.2,13,18,28.8,1,1.5,0,0
+23-71259,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,3,Balayan,42,2.5,2.25,88.6,13,24,24.9,1,2.25,0,0
+23-71260,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,3,Nasugbu,46,2.25,1.75,98.7,7,18,3.8,1,2.0,0,0
+23-71261,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,3,Nasugbu,33,1.75,2.25,83.0,10,21,6.1,1,2.25,0,0
+25-71262,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Nasugbu,53,1.75,1.75,80.9,13,15,1.9,0,2.0,0,0
+25-71263,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Calaca,37,2.25,2.0,92.3,11,18,37.4,1,2.0,0,0
+23-71264,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BA Communication,3,Tuy,38,2.0,1.75,89.3,7,21,15.8,1,1.75,0,0
+24-71265,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,2,Lemery,42,2.0,2.25,76.8,13,24,46.9,0,2.25,0,0
+24-71266,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Psychology,2,Nasugbu,38,2.5,2.5,94.1,10,21,2.8,1,2.5,0,0
+25-71267,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Balayan,47,1.5,1.75,92.4,17,21,25.4,1,1.75,0,0
+25-71268,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Balayan,42,2.0,2.25,87.5,8,21,24.4,1,2.25,0,0
+25-71269,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,1,Tuy,47,2.0,1.75,80.4,12,15,18.1,1,1.75,1,0
+22-71270,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,4,Calaca,36,1.25,1.75,82.1,13,18,31.2,1,1.5,0,1
+25-71271,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,40,2.0,1.75,93.0,11,21,3.1,0,2.0,0,0
+24-71272,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Psychology,2,Nasugbu,30,1.75,2.25,89.3,7,24,7.2,1,2.25,0,0
+25-71273,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Tuy,45,2.25,2.25,94.2,5,24,19.0,1,2.25,0,0
+23-71274,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Tuy,36,2.25,2.25,84.0,13,18,16.6,1,2.25,0,0
+25-71275,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Lian,41,2.25,2.0,80.0,7,18,11.6,0,2.0,0,0
+22-71276,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,42,2.0,2.0,100.0,11,18,4.8,1,1.75,0,1
+22-71277,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,4,Lian,39,2.0,1.75,89.6,13,24,15.9,1,2.0,0,1
+25-71278,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,55,1.75,1.75,96.2,9,24,6.5,1,2.0,0,0
+22-71279,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,4,Lian,53,1.75,2.0,92.9,11,21,11.8,1,2.25,1,0
+22-71280,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,4,Tuy,48,2.5,2.25,86.3,7,18,21.8,0,2.5,0,1
+22-71281,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,4,Balayan,39,2.25,2.25,84.3,11,21,27.7,1,2.25,0,1
+22-71282,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,4,Nasugbu,48,2.25,2.25,70.5,14,21,4.3,1,2.0,0,1
+25-71283,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Nasugbu,36,2.5,2.0,82.1,5,18,8.6,1,2.0,0,0
+24-71284,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Nasugbu,31,2.0,1.75,91.5,12,21,1.0,1,1.75,0,0
+25-71285,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Nasugbu,51,2.25,2.5,70.5,9,15,6.9,1,2.75,0,0
+25-71286,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Balayan,57,2.25,2.0,86.5,5,18,27.7,1,2.25,0,0
+22-71287,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,4,Calatagan,47,1.5,1.5,87.4,7,24,33.3,1,1.5,0,1
+25-71288,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Nasugbu,48,2.25,2.5,94.7,9,21,3.1,1,2.5,0,0
+23-71289,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,3,Balayan,40,2.5,2.25,87.9,4,21,28.4,0,2.5,0,0
+23-71290,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,3,Calatagan,54,1.75,2.25,91.6,10,21,33.9,1,1.75,0,0
+22-71291,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,4,Calatagan,36,2.25,2.25,96.5,9,18,33.0,0,2.25,0,1
+22-71292,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,4,Nasugbu,40,1.5,1.75,98.9,3,21,2.7,1,2.0,0,1
+25-71293,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Calaca,54,2.25,2.0,86.7,14,21,31.2,1,2.0,0,0
+25-71294,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,1,Nasugbu,57,2.0,2.0,90.0,13,21,2.7,0,2.0,0,0
+24-71295,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,31,2.0,1.75,89.5,11,21,3.2,1,1.75,0,0
+25-71296,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,1,Nasugbu,48,2.0,2.25,88.5,12,18,4.9,1,2.5,0,0
+25-71297,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,1,Lian,48,2.25,2.25,94.2,9,18,15.9,1,2.25,0,0
+24-71298,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,2,Nasugbu,41,1.5,1.5,92.8,16,21,3.0,1,1.25,0,0
+23-71299,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Nasugbu,56,2.5,2.5,88.4,8,18,1.9,0,2.75,0,0
+24-71300,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,2,Nasugbu,39,1.75,1.75,100.0,7,21,2.7,1,2.0,0,0
+25-71301,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,1,Balayan,43,2.5,2.25,81.5,13,18,28.4,1,2.0,0,0
+23-71302,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,3,Calatagan,47,2.5,2.25,75.4,6,18,35.5,1,2.75,0,0
+25-71303,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,39,2.0,2.5,90.2,5,18,6.3,1,2.5,0,0
+25-71304,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Calatagan,55,2.25,2.75,78.3,7,24,36.1,1,3.0,1,0
+23-71305,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Calatagan,46,2.25,2.25,88.8,6,18,36.4,1,2.25,0,0
+23-71306,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,3,Balayan,28,2.75,2.5,77.8,6,21,27.3,1,2.25,0,0
+23-71307,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,3,Nasugbu,53,1.75,2.0,88.7,8,21,9.6,1,2.0,0,0
+25-71308,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,1,Tuy,51,1.75,2.0,94.5,13,15,18.6,1,2.0,0,0
+22-71309,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,4,Lemery,37,1.75,1.75,75.3,13,21,44.3,1,1.25,0,1
+23-71310,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,3,Tuy,53,2.0,2.25,89.9,11,21,22.7,1,2.5,0,0
+24-71311,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,2,Nasugbu,57,2.0,2.0,83.3,10,21,5.9,1,1.75,0,0
+23-71312,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,3,Lian,37,2.0,2.0,92.2,5,24,5.4,0,2.0,0,0
+22-71313,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,4,Tuy,40,2.5,2.25,89.5,9,18,19.5,0,2.0,0,1
+24-71314,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,2,Lian,28,2.0,2.25,86.4,7,15,13.2,1,2.25,0,0
+24-71315,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,2,Nasugbu,47,2.0,1.75,91.5,9,24,1.1,1,1.25,0,0
+22-71316,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,42,1.75,1.5,93.4,13,18,6.4,0,1.25,0,1
+23-71317,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BS Psychology,3,Balayan,41,2.0,2.25,81.5,9,21,29.0,0,2.0,0,0
+24-71318,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Calatagan,42,2.75,2.5,90.5,7,21,37.0,1,2.5,0,0
+23-71319,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BS Psychology,3,Nasugbu,42,1.5,1.25,98.6,10,18,2.8,1,1.25,0,0
+24-71320,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,2,Calaca,46,2.5,2.0,74.9,7,21,38.5,0,2.25,0,0
+25-71321,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,52,2.5,2.25,100.0,14,18,4.9,1,2.25,0,0
+24-71322,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Tuy,51,2.5,2.5,84.5,9,18,23.9,1,2.5,0,0
+22-71323,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,4,Balayan,43,2.0,2.25,96.7,11,18,35.0,0,2.0,0,1
+22-71324,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,4,Balayan,41,1.75,1.75,80.9,10,21,31.8,1,1.75,0,1
+25-71325,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Lemery,49,2.5,2.5,87.6,3,18,45.2,0,2.5,0,0
+24-71326,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,2,Nasugbu,39,2.25,1.5,92.3,13,21,10.3,1,1.0,0,0
+25-71327,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Calatagan,38,1.75,2.0,79.4,4,24,35.5,0,1.75,1,0
+22-71328,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,37,2.0,2.5,91.6,7,21,2.2,1,2.5,0,1
+22-71329,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,4,Tuy,35,1.75,2.0,95.8,8,21,19.4,0,2.0,0,1
+23-71330,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Balayan,51,1.25,1.75,83.2,13,21,29.9,1,1.75,0,0
+23-71331,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,3,Tuy,49,1.75,2.25,84.2,8,18,21.6,1,2.25,0,0
+23-71332,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Hospitality Management,3,Nasugbu,49,2.25,2.5,82.9,7,21,1.7,1,2.25,1,0
+24-71333,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Calatagan,36,2.0,2.0,96.5,14,21,31.3,1,1.5,0,0
+25-71334,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Nasugbu,38,2.0,1.75,87.3,7,24,3.6,1,1.75,0,0
+24-71335,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,2,Nasugbu,42,2.25,2.25,99.0,10,24,5.8,1,2.5,0,0
+23-71336,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,3,Tuy,37,2.5,2.25,80.7,5,24,21.2,1,2.25,0,0
+23-71337,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,3,Lian,54,2.0,2.25,97.6,12,24,11.4,1,2.5,0,0
+24-71338,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,2,Calatagan,55,2.0,2.25,90.9,7,21,31.9,1,2.0,0,0
+22-71339,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,4,Nasugbu,37,2.0,2.25,88.1,15,21,8.8,0,2.25,0,1
+25-71340,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,39,2.25,2.0,83.7,6,24,1.8,1,1.75,0,0
+24-71341,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,2,Balayan,44,1.75,2.0,80.5,10,18,31.3,1,1.75,1,0
+23-71342,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,3,Lian,40,2.0,2.25,81.9,9,24,12.8,1,2.25,0,0
+23-71343,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Nasugbu,40,2.25,2.0,97.6,8,21,7.7,1,2.0,0,0
+23-71344,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Tuy,53,2.5,2.5,89.0,10,21,18.4,1,2.25,0,0
+25-71345,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,1,Lian,28,2.5,2.25,79.2,9,21,10.6,1,2.25,0,0
+25-71346,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,1,Tuy,39,2.25,2.25,85.8,5,24,19.6,0,2.0,1,0
+23-71347,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,3,Lian,47,2.5,2.5,88.6,12,18,9.8,1,2.25,0,0
+24-71348,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,2,Balayan,42,2.5,2.75,70.4,8,21,28.6,1,2.5,0,0
+25-71349,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Balayan,42,2.25,1.75,81.5,10,21,31.9,1,2.0,0,0
+23-71350,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Psychology,3,Tuy,35,2.5,2.0,91.2,9,18,16.3,1,2.25,0,0
+24-71351,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,2,Nasugbu,46,2.25,2.25,87.7,10,21,2.9,1,1.75,0,0
+23-71352,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,3,Balayan,38,2.5,2.25,88.1,10,21,26.1,1,2.25,1,0
+22-71353,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,4,Tuy,40,1.75,1.75,91.1,10,21,19.3,1,1.75,0,1
+25-71354,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Tuy,52,1.75,2.0,85.2,11,18,19.2,1,2.0,0,0
+25-71355,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,1,Nasugbu,45,1.75,1.5,95.5,7,21,6.4,1,1.25,0,0
+23-71356,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,3,Calatagan,45,2.0,1.75,95.2,9,21,34.1,0,1.75,0,0
+24-71357,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Tuy,28,2.75,2.75,74.3,8,21,20.3,1,3.0,0,0
+23-71358,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,3,Nasugbu,41,1.75,2.0,85.7,7,18,5.5,1,2.25,0,0
+22-71359,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Psychology,4,Nasugbu,31,2.25,2.25,100.0,12,24,5.1,1,2.25,0,1
+23-71360,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,3,Calatagan,48,1.75,1.75,85.6,12,21,35.8,1,1.75,0,0
+22-71361,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,4,Nasugbu,45,2.75,2.75,90.4,8,21,4.2,0,2.75,0,1
+24-71362,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,2,Calaca,44,1.75,1.75,81.6,12,21,40.1,1,1.5,0,0
+24-71363,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,2,Tuy,39,2.25,2.25,93.3,9,18,25.9,1,2.0,0,0
+24-71364,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Tuy,37,2.25,2.25,78.3,14,21,21.3,0,2.0,1,0
+25-71365,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,39,2.25,2.0,97.1,10,21,5.1,1,2.0,0,0
+24-71366,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,34,2.0,2.25,86.1,6,21,6.1,1,2.0,0,0
+25-71367,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,1,Lemery,34,2.0,2.25,75.7,11,21,41.2,1,2.0,0,0
+22-71368,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,38,2.5,3.0,86.6,6,21,5.0,1,3.0,1,0
+24-71369,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,2,Balayan,53,2.5,2.75,85.9,7,18,26.2,1,3.0,0,0
+24-71370,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,2,Nasugbu,49,2.25,2.5,86.8,12,21,5.8,1,2.5,0,0
+24-71371,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,2,Nasugbu,50,2.25,2.5,99.0,10,18,2.7,1,2.25,0,0
+25-71372,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,41,1.75,2.0,85.4,5,18,3.6,1,2.0,0,0
+25-71373,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BA Communication,1,Lian,45,1.5,1.75,91.2,13,24,6.3,1,1.5,0,0
+24-71374,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,2,Calaca,50,2.0,2.25,88.7,4,21,33.1,1,2.0,0,0
+25-71375,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Nasugbu,39,2.0,2.25,91.4,7,21,5.4,1,2.0,0,0
+24-71376,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,2,Nasugbu,36,1.75,2.25,94.4,13,21,2.3,1,2.25,0,0
+22-71377,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,53,2.25,2.0,86.9,5,24,7.2,0,2.0,0,1
+22-71378,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,4,Lian,52,2.25,1.75,94.3,12,21,8.6,0,1.75,0,1
+23-71379,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,3,Lian,33,2.0,2.25,91.6,13,21,12.1,0,2.25,0,0
+25-71380,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,1,Calatagan,42,2.0,1.75,92.1,5,18,32.1,0,1.5,1,0
+22-71381,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,4,Lian,51,2.5,2.25,75.5,7,24,12.0,1,2.5,0,1
+22-71382,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,4,Lian,38,2.0,1.5,91.5,13,24,7.2,1,1.75,0,1
+25-71383,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,33,2.0,2.25,95.1,14,24,3.4,1,2.0,0,0
+23-71384,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Psychology,3,Taal,38,2.0,2.25,79.4,8,18,45.9,1,2.0,0,0
+25-71385,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,1,Nasugbu,54,2.25,2.25,86.2,12,18,6.7,1,2.0,0,0
+23-71386,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,3,Nasugbu,42,2.0,2.0,83.1,7,18,5.7,1,2.0,0,0
+22-71387,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,4,Tuy,40,2.5,2.5,78.6,7,18,16.4,1,2.75,0,1
+25-71388,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Lian,41,2.0,2.25,94.2,7,24,10.5,0,2.5,0,0
+22-71389,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,48,1.75,1.75,100.0,11,15,2.6,1,2.0,0,1
+23-71390,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,3,Lian,33,2.25,2.0,82.6,13,15,13.4,1,2.25,0,0
+22-71391,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BA Communication,4,Balayan,53,2.0,2.5,81.9,8,18,31.2,0,2.75,0,1
+24-71392,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,2,Nasugbu,55,1.75,2.0,91.4,10,18,1.0,1,2.25,0,0
+22-71393,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,4,Balayan,51,2.0,2.25,73.9,8,18,30.1,1,2.25,0,1
+25-71394,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Tuy,41,1.75,2.0,83.0,10,21,17.4,1,1.75,1,0
+25-71395,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,42,2.25,1.75,88.1,7,21,3.9,1,2.0,0,0
+25-71396,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Lian,45,2.5,2.5,80.6,16,15,11.1,1,2.75,0,0
+22-71397,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,4,Nasugbu,58,1.75,2.25,98.3,11,21,9.0,1,2.25,0,1
+23-71398,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,3,Balayan,49,2.0,2.0,77.1,7,21,25.5,1,2.25,0,0
+22-71399,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,4,Lian,36,1.5,1.25,95.4,7,15,13.1,1,1.5,0,1
+22-71400,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,4,Nasugbu,55,1.5,1.75,100.0,5,21,1.6,0,2.0,0,1
+25-71401,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Lian,35,2.25,2.25,90.5,12,21,7.9,0,2.25,1,0
+24-71402,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,2,Taal,47,1.75,2.25,78.7,4,21,48.1,1,2.5,1,0
+25-71403,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Lian,47,1.75,2.25,91.1,10,21,11.1,1,2.25,0,0
+25-71404,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Lemery,37,2.25,2.25,80.9,4,15,36.9,0,2.0,1,0
+25-71405,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,1,Nasugbu,34,2.25,2.0,73.2,8,24,7.4,0,1.75,1,0
+24-71406,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,2,Nasugbu,40,2.25,2.25,84.2,6,21,1.0,0,1.5,0,0
+25-71407,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,57,2.0,2.0,90.6,6,24,4.1,0,2.5,0,0
+25-71408,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,1,Nasugbu,32,2.0,2.0,81.0,7,15,7.8,1,1.75,0,0
+25-71409,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,1,Nasugbu,48,1.75,2.25,86.5,10,24,10.0,1,2.5,0,0
+25-71410,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BA Communication,1,Nasugbu,44,2.0,2.0,94.2,6,21,3.6,1,1.75,0,0
+22-71411,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,4,Lemery,29,2.0,2.0,82.3,7,24,40.4,1,2.0,0,1
+23-71412,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,3,Calatagan,28,1.5,2.0,89.5,5,15,37.2,1,2.0,0,0
+22-71413,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,4,Balayan,46,2.0,2.0,85.4,2,21,30.2,1,1.75,0,1
+24-71414,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Nasugbu,53,2.0,1.5,93.4,10,24,3.3,1,1.75,0,0
+25-71415,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,47,2.0,1.75,85.8,6,21,3.0,1,1.75,0,0
+23-71416,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,3,Nasugbu,47,2.0,2.25,79.2,14,21,2.7,1,2.25,0,0
+25-71417,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,1,Tuy,44,2.25,2.25,84.8,11,24,18.6,1,2.5,0,0
+25-71418,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,1,Lemery,37,2.5,2.75,77.3,8,21,44.8,1,2.75,0,0
+25-71419,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Lian,38,2.5,2.5,88.4,6,21,9.6,1,2.5,0,0
+25-71420,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,1,Nasugbu,49,1.75,2.5,83.1,6,21,3.4,1,3.0,0,0
+25-71421,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,1,Lian,39,2.0,2.0,95.0,10,24,12.6,0,2.0,0,0
+24-71422,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,2,Nasugbu,54,2.5,2.75,86.0,6,15,1.0,1,2.75,0,0
+23-71423,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Psychology,3,Nasugbu,28,1.75,2.25,86.0,5,21,3.6,1,2.25,0,0
+25-71424,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Tuy,42,1.75,2.0,88.3,13,21,15.3,1,1.75,0,0
+25-71425,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Tuy,31,1.75,2.0,93.4,13,21,19.8,1,1.75,0,0
+23-71426,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,3,Nasugbu,38,2.5,2.0,100.0,9,21,1.0,1,1.75,0,0
+25-71427,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,38,1.75,1.25,100.0,8,24,6.7,1,1.0,0,0
+25-71428,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Taal,58,2.5,2.75,73.3,12,24,44.7,1,2.75,1,0
+22-71429,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,4,Nasugbu,44,2.0,2.25,88.6,7,15,1.0,1,2.5,0,1
+25-71430,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,37,1.75,1.75,86.7,10,21,3.6,1,1.75,0,0
+25-71431,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,57,2.75,2.5,92.4,8,15,8.8,0,2.75,0,0
+24-71432,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,43,2.0,2.0,90.3,14,18,6.3,1,1.75,0,0
+25-71433,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,47,2.25,2.5,87.1,4,21,1.0,1,3.0,0,0
+24-71434,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,2,Balayan,47,2.25,2.5,81.8,7,24,24.6,1,2.75,0,0
+23-71435,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,3,Nasugbu,50,2.25,2.0,83.6,17,24,3.5,1,2.0,0,0
+25-71436,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Lian,37,3.0,2.5,69.1,9,18,16.6,1,2.5,0,0
+24-71437,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,2,Tuy,53,2.75,3.0,78.7,4,15,17.2,1,2.75,0,0
+24-71438,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Psychology,2,Lian,48,1.75,2.0,96.0,15,21,8.7,1,2.0,0,0
+25-71439,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BA Communication,1,Calatagan,49,2.5,2.5,94.5,12,21,37.8,1,2.5,0,0
+23-71440,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,3,Calatagan,40,1.75,1.75,94.3,14,18,34.5,1,1.75,0,0
+25-71441,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,32,2.0,2.25,94.4,12,24,7.1,1,2.0,0,0
+24-71442,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,2,Balayan,47,1.75,2.0,79.0,5,24,26.2,0,2.25,0,0
+25-71443,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,1,Lian,45,2.5,2.25,80.9,13,21,10.7,1,2.25,0,0
+24-71444,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,2,Taal,46,2.25,2.5,68.2,11,24,51.3,0,2.25,0,0
+25-71445,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Lian,38,1.75,1.75,83.0,9,18,10.6,1,1.75,0,0
+22-71446,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,4,Taal,30,2.5,2.5,79.8,3,21,50.8,0,2.5,1,0
+25-71447,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Balayan,42,2.5,2.25,78.4,14,21,29.0,1,2.25,0,0
+24-71448,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,41,2.5,2.25,94.2,12,18,1.9,1,2.25,0,0
+24-71449,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Hospitality Management,2,Lian,57,1.5,2.25,94.0,9,24,11.0,1,2.5,0,0
+23-71450,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,3,Taal,58,2.75,3.0,78.0,0,21,50.5,1,3.0,1,0
+24-71451,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Calatagan,39,2.25,2.5,72.5,4,21,35.7,0,2.5,0,0
+23-71452,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Nasugbu,48,2.5,2.25,100.0,7,18,4.4,1,2.25,0,0
+23-71453,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Tuy,37,2.25,2.5,86.6,11,15,14.8,1,2.5,0,0
+22-71454,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,4,Nasugbu,56,2.0,2.5,100.0,15,15,1.0,1,2.5,0,1
+25-71455,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,46,2.0,2.25,89.8,7,21,1.0,1,2.0,0,0
+24-71456,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,2,Nasugbu,46,2.0,2.25,92.0,13,21,3.2,1,2.25,0,0
+22-71457,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,4,Nasugbu,52,1.75,2.0,83.8,14,18,3.6,1,2.0,0,1
+22-71458,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,4,Balayan,45,2.0,2.0,83.6,7,21,24.3,1,2.25,1,0
+22-71459,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,4,Nasugbu,47,2.25,2.5,78.9,7,21,7.1,0,2.5,0,1
+24-71460,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,2,Balayan,52,2.5,2.75,76.9,14,21,24.8,0,2.5,1,0
+25-71461,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,1,Nasugbu,39,1.5,2.0,96.6,9,21,1.1,1,2.0,0,0
+24-71462,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,37,2.5,2.5,88.5,12,24,4.7,1,2.5,0,0
+23-71463,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,3,Nasugbu,36,2.25,2.75,84.9,9,21,6.9,1,2.5,0,0
+24-71464,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,2,Nasugbu,29,2.5,2.25,82.0,8,21,9.6,1,2.25,0,0
+24-71465,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,37,2.25,2.5,87.5,10,18,6.0,1,2.5,0,0
+22-71466,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,4,Nasugbu,44,2.25,2.25,95.8,10,18,8.4,0,2.5,0,1
+24-71467,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Psychology,2,Lian,28,2.0,2.25,88.7,7,15,8.0,1,2.0,0,0
+22-71468,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,4,Nasugbu,36,2.25,2.25,78.8,8,21,9.9,0,2.0,0,1
+24-71469,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Nasugbu,47,2.25,2.25,96.5,7,18,1.0,0,2.25,0,0
+25-71470,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,55,1.5,1.75,100.0,14,18,3.2,0,2.0,0,0
+24-71471,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BA Communication,2,Calatagan,46,1.75,2.0,85.8,7,21,35.4,1,1.75,0,0
+23-71472,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Calatagan,47,2.0,2.25,91.9,6,18,30.0,1,2.25,0,0
+25-71473,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Lian,35,2.25,2.25,96.3,5,18,8.7,1,2.0,0,0
+25-71474,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,40,2.75,2.0,77.0,11,18,1.8,1,2.25,1,0
+22-71475,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,4,Nasugbu,31,2.0,1.5,100.0,9,21,3.7,1,1.25,0,1
+25-71476,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Calaca,46,2.75,2.25,91.5,7,18,39.6,1,2.25,1,0
+24-71477,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Nasugbu,36,2.25,2.0,91.9,10,21,4.5,1,2.0,0,0
+24-71478,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,2,Nasugbu,45,2.0,1.75,87.7,12,21,3.3,1,1.25,0,0
+24-71479,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Nasugbu,39,2.5,2.5,79.5,5,21,1.0,0,2.5,0,0
+23-71480,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Nasugbu,37,2.0,2.25,85.8,10,21,5.7,0,2.0,1,0
+25-71481,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,54,2.0,2.5,93.4,15,21,6.5,1,2.75,0,0
+24-71482,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,2,Balayan,55,1.75,2.25,78.8,10,15,23.7,1,2.25,0,0
+24-71483,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Nasugbu,36,1.5,2.0,87.9,15,18,4.3,1,1.75,0,0
+23-71484,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,3,Tuy,33,2.25,2.0,76.8,12,18,20.0,1,2.25,0,0
+25-71485,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,46,2.5,2.25,85.2,8,18,6.9,1,2.5,0,0
+24-71486,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,46,2.75,2.25,81.2,7,18,2.7,1,2.0,0,0
+25-71487,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,1,Calatagan,42,2.0,2.5,72.4,6,18,31.8,1,2.75,1,0
+25-71488,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,1,Nasugbu,34,2.5,2.75,91.1,5,21,3.4,0,2.25,0,0
+25-71489,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Balayan,43,2.75,2.5,78.9,5,21,31.2,1,2.5,0,0
+25-71490,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,1,Lian,58,2.0,1.75,85.3,13,18,13.6,1,1.5,0,0
+22-71491,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,4,Nasugbu,43,2.5,2.0,83.9,9,21,4.4,1,2.0,0,1
+25-71492,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Calaca,28,2.25,2.0,100.0,4,18,38.5,1,2.0,0,0
+22-71493,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,4,Nasugbu,46,2.5,2.0,93.5,6,18,1.0,1,1.75,0,1
+22-71494,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,4,Calatagan,45,2.75,2.25,89.4,2,21,36.0,1,2.0,0,1
+24-71495,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,2,Nasugbu,42,2.5,2.25,85.6,8,15,1.7,1,2.0,0,0
+25-71496,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,1,Calatagan,46,1.5,2.0,85.3,7,15,38.4,1,2.0,0,0
+24-71497,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,2,Nasugbu,36,2.25,1.75,89.5,11,21,1.8,1,2.0,0,0
+23-71498,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Psychology,3,Lian,44,1.75,1.75,81.9,14,24,8.9,1,2.0,0,0
+24-71499,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,2,Balayan,35,2.0,2.0,97.3,12,21,29.4,1,2.0,0,0
+25-71500,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Lemery,54,2.25,2.25,86.5,7,15,45.6,1,2.5,1,0
+24-71501,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Calatagan,29,2.0,2.0,86.5,6,24,32.9,1,2.25,0,0
+22-71502,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,4,Balayan,50,2.0,2.25,78.7,6,21,28.9,0,2.25,1,0
+23-71503,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,3,Calatagan,51,2.25,2.25,75.3,4,21,35.2,1,2.25,0,0
+25-71504,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Nasugbu,58,1.75,2.0,90.0,16,24,5.5,0,2.5,0,0
+23-71505,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,3,Nasugbu,42,2.0,2.0,86.7,11,21,3.5,1,2.0,0,0
+25-71506,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,37,2.0,1.75,92.6,6,18,5.8,1,1.75,0,0
+25-71507,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,1,Nasugbu,43,2.25,1.75,94.8,11,21,8.0,1,1.5,0,0
+22-71508,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,4,Nasugbu,32,2.0,2.0,89.5,7,21,1.4,1,1.75,0,1
+25-71509,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Lian,45,2.25,1.75,95.7,9,21,8.9,1,2.0,0,0
+25-71510,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,1,Nasugbu,40,2.0,1.75,89.8,8,21,4.6,1,1.75,0,0
+25-71511,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Tuy,40,2.5,2.25,81.8,8,24,16.9,1,2.25,0,0
+22-71512,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,45,2.0,2.0,87.7,12,24,1.0,1,2.25,0,1
+23-71513,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,3,Nasugbu,29,2.75,2.25,88.8,12,24,7.2,1,2.0,0,0
+23-71514,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,3,Lian,57,2.25,2.5,97.1,8,21,5.4,1,2.5,0,0
+23-71515,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Balayan,50,2.5,2.5,87.7,7,24,27.0,1,3.0,0,0
+25-71516,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,1,Balayan,48,2.0,2.25,81.4,10,15,29.9,1,2.25,1,0
+24-71517,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,2,Tuy,36,2.0,2.0,94.4,9,18,20.2,1,2.0,0,0
+24-71518,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,2,Nasugbu,30,2.0,1.75,91.3,8,21,3.5,1,2.0,0,0
+25-71519,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Lian,58,2.75,3.0,100.0,9,24,8.3,1,3.0,0,0
+24-71520,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,2,Nasugbu,37,2.0,2.25,88.8,9,21,5.4,1,2.0,0,0
+22-71521,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,4,Nasugbu,46,1.75,1.75,83.6,12,21,2.0,1,1.75,0,1
+25-71522,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Nasugbu,37,2.25,2.0,96.7,8,18,5.2,1,2.25,0,0
+25-71523,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,1,Nasugbu,48,2.25,2.25,84.2,9,18,4.9,1,2.0,0,0
+25-71524,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,36,2.0,2.0,90.4,10,21,4.9,1,2.0,0,0
+25-71525,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,1,Calaca,51,2.0,2.75,86.0,6,18,34.4,1,2.75,0,0
+22-71526,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,4,Calaca,48,2.5,2.0,83.6,2,18,41.1,1,2.25,0,1
+24-71527,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,30,2.25,1.75,87.0,11,18,5.4,1,1.5,0,0
+24-71528,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,36,2.25,1.75,78.8,12,18,3.8,1,1.0,0,0
+23-71529,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,3,Nasugbu,36,2.0,2.0,81.0,10,21,5.2,1,2.0,0,0
+25-71530,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,36,1.75,2.0,99.1,11,18,2.6,1,2.25,0,0
+24-71531,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Lemery,34,1.0,1.75,83.8,6,21,43.0,1,1.75,0,0
+24-71532,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,2,Nasugbu,39,1.75,1.75,100.0,6,15,10.5,1,1.5,0,0
+24-71533,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Balayan,36,2.0,2.25,76.6,13,21,26.1,1,2.25,0,0
+22-71534,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,4,Nasugbu,52,2.0,2.25,90.4,5,18,4.3,1,2.5,0,1
+23-71535,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Taal,29,2.25,2.5,88.3,1,21,46.9,1,2.25,1,0
+24-71536,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Nasugbu,36,3.0,2.75,84.8,10,21,1.9,1,2.75,0,0
+22-71537,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,4,Balayan,44,2.25,2.0,80.0,13,18,29.1,1,1.75,0,1
+25-71538,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,41,1.75,1.75,88.5,8,24,4.6,1,1.5,0,0
+25-71539,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Tuy,45,2.25,2.0,83.9,13,21,21.8,0,2.25,1,0
+25-71540,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,33,2.25,2.5,91.8,11,21,6.5,1,2.75,0,0
+25-71541,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,32,2.0,2.0,75.1,7,18,6.8,1,2.25,0,0
+24-71542,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Lemery,29,2.25,2.5,92.8,6,24,41.7,1,2.0,1,0
+23-71543,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,3,Lemery,45,2.5,2.0,75.5,5,21,45.6,1,2.0,1,0
+22-71544,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,4,Calatagan,41,2.75,3.0,66.9,7,18,35.7,1,3.0,1,0
+24-71545,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,2,Tuy,58,1.5,2.25,88.0,18,18,16.9,0,2.5,0,0
+24-71546,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,2,Balayan,41,2.25,2.25,83.3,10,21,27.2,1,1.75,0,0
+25-71547,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,49,2.5,2.75,90.0,4,21,1.0,1,2.5,0,0
+25-71548,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,42,2.5,2.0,90.3,13,21,6.2,1,1.75,0,0
+24-71549,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,2,Nasugbu,57,1.75,2.0,94.9,4,21,6.2,0,2.0,0,0
+24-71550,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,2,Tuy,31,2.0,2.25,96.8,10,21,23.1,1,1.75,0,0
+22-71551,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,4,Nasugbu,43,2.0,2.0,83.6,11,18,3.9,1,2.0,0,1
+25-71552,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,1,Nasugbu,48,2.0,2.25,93.8,18,18,5.6,1,2.25,0,0
+25-71553,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Lian,31,2.0,2.25,91.7,14,21,13.5,1,2.0,0,0
+24-71554,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Psychology,2,Balayan,43,2.25,2.5,65.1,4,24,26.1,1,2.5,0,0
+25-71555,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,57,2.25,2.75,85.1,6,18,2.2,1,2.5,0,0
+25-71556,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,54,2.0,2.5,81.7,10,21,2.7,1,2.5,0,0
+23-71557,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,3,Nasugbu,58,2.25,2.75,94.0,10,21,3.6,1,2.5,0,0
+25-71558,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,1,Nasugbu,51,1.75,2.0,93.5,10,21,2.3,1,1.75,0,0
+24-71559,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,2,Nasugbu,33,1.75,2.0,91.3,5,24,2.8,1,1.75,0,0
+25-71560,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,1,Tuy,43,2.5,2.0,85.0,11,21,21.7,1,1.75,0,0
+25-71561,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Tuy,32,2.75,2.5,84.0,7,15,19.3,0,2.5,0,0
+24-71562,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,2,Tuy,48,2.75,2.75,87.2,8,24,20.3,1,2.75,1,0
+23-71563,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,3,Nasugbu,56,2.25,2.25,88.0,5,21,3.1,0,2.75,0,0
+24-71564,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,2,Balayan,44,2.25,2.0,91.8,12,24,26.5,0,2.0,1,0
+23-71565,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Nasugbu,34,2.0,2.25,80.6,14,21,5.2,1,1.5,0,0
+25-71566,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,1,Lian,56,2.25,2.75,83.6,15,24,11.3,1,2.5,0,0
+23-71567,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,3,Balayan,58,1.75,2.0,86.4,16,15,29.9,1,2.0,0,0
+25-71568,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,34,2.5,2.5,85.1,5,18,7.8,1,3.0,1,0
+23-71569,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Nasugbu,50,2.5,2.25,83.0,13,24,2.8,1,2.25,0,0
+24-71570,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,2,Calatagan,28,2.75,2.25,85.9,11,18,36.2,1,2.5,0,0
+22-71571,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,37,2.0,1.75,87.0,8,15,1.8,1,2.0,0,1
+24-71572,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Psychology,2,Tuy,48,2.75,2.5,80.5,8,21,24.7,1,2.25,1,0
+25-71573,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,47,2.25,2.25,87.5,9,24,2.5,1,2.0,0,0
+25-71574,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Tuy,37,2.25,2.25,78.6,6,18,21.2,0,2.25,0,0
+22-71575,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,4,Nasugbu,36,2.25,2.25,88.7,10,24,1.8,1,1.75,0,1
+24-71576,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,2,Nasugbu,38,2.5,2.0,88.1,11,21,4.1,0,2.25,0,0
+23-71577,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Tuy,41,2.0,2.25,80.9,11,21,23.4,1,2.25,0,0
+25-71578,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,43,2.0,2.25,85.2,12,24,2.5,0,2.25,1,0
+25-71579,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,28,1.5,1.5,94.5,7,21,10.0,1,1.5,0,0
+25-71580,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Nasugbu,41,2.0,2.25,93.3,12,18,4.5,1,2.25,0,0
+22-71581,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,4,Nasugbu,34,2.25,2.25,75.6,11,18,6.9,1,2.25,1,0
+23-71582,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,3,Nasugbu,37,1.75,2.0,94.6,7,21,5.5,1,2.0,0,0
+22-71583,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,52,1.75,2.25,94.1,11,21,5.6,0,2.25,0,1
+25-71584,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Lemery,54,1.75,2.5,86.7,5,21,40.4,1,2.25,0,0
+23-71585,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,3,Nasugbu,40,2.0,2.0,95.0,7,21,3.3,0,2.0,0,0
+23-71586,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Hospitality Management,3,Lian,53,2.5,2.75,88.8,9,21,14.0,1,3.0,0,0
+25-71587,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,1,Nasugbu,42,1.5,1.25,95.2,9,21,3.6,1,1.25,0,0
+22-71588,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,4,Nasugbu,44,2.25,2.25,87.2,12,18,4.8,0,2.5,0,1
+22-71589,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,4,Lemery,55,2.5,3.0,89.6,2,15,40.1,1,3.0,0,1
+22-71590,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,4,Nasugbu,47,2.75,2.25,92.4,14,24,3.2,1,2.0,0,1
+23-71591,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,3,Calaca,40,2.5,2.75,73.8,7,15,38.8,0,2.5,0,0
+25-71592,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,1,Nasugbu,40,2.25,2.5,96.5,6,18,1.3,0,2.25,0,0
+25-71593,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,1,Balayan,46,2.25,2.5,84.6,5,21,29.8,0,2.25,1,0
+22-71594,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,4,Lian,44,2.25,2.5,85.1,7,21,11.4,0,2.5,0,1
+25-71595,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Calatagan,40,2.25,1.75,81.6,16,24,33.4,1,1.75,0,0
+23-71596,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,3,Lian,36,2.5,2.0,86.8,10,18,10.3,1,2.25,0,0
+23-71597,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,3,Lian,40,2.25,2.5,89.0,7,15,9.8,1,2.5,0,0
+23-71598,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,3,Nasugbu,41,2.75,2.75,81.5,3,18,3.5,0,2.25,1,0
+22-71599,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,4,Nasugbu,48,3.0,2.75,78.8,9,21,6.8,1,2.75,0,1
+25-71600,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BS Psychology,1,Lemery,37,2.25,2.25,73.1,7,18,42.9,1,1.75,0,0
+25-71601,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,30,2.0,2.0,90.2,10,21,9.0,1,2.0,0,0
+25-71602,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,44,2.0,2.5,87.1,8,24,5.2,1,2.25,0,0
+24-71603,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Balayan,48,2.0,2.0,94.2,7,24,26.6,1,2.0,0,0
+25-71604,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,51,2.25,2.5,89.7,13,18,6.9,0,2.25,0,0
+25-71605,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,1,Calaca,51,2.0,2.25,90.0,12,21,37.6,1,2.5,0,0
+22-71606,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,4,Balayan,35,2.25,2.0,79.5,11,21,23.9,1,2.0,1,0
+22-71607,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,4,Lian,57,2.0,2.25,86.7,12,24,8.4,1,2.25,0,1
+25-71608,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,1,Calatagan,40,2.25,2.5,82.6,9,24,33.7,1,2.0,1,0
+24-71609,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,2,Nasugbu,46,2.0,2.25,90.2,11,18,1.0,1,2.5,0,0
+22-71610,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,58,1.75,2.0,87.8,8,21,9.7,1,2.0,0,1
+25-71611,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Lian,49,2.25,2.25,82.6,14,18,13.1,0,2.25,0,0
+25-71612,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,44,2.75,2.25,77.0,11,15,4.5,1,2.0,0,0
+25-71613,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,1,Balayan,51,2.0,2.5,90.6,2,15,27.1,1,3.0,0,0
+24-71614,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,2,Lemery,47,1.75,2.0,84.5,7,21,42.5,1,2.0,0,0
+25-71615,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Lian,43,2.5,2.25,83.7,13,21,6.1,1,2.0,0,0
+22-71616,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,4,Nasugbu,45,2.0,2.25,94.0,11,15,1.0,1,2.25,0,1
+24-71617,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Calaca,29,2.5,2.0,79.9,7,21,40.8,1,2.0,0,0
+24-71618,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,2,Lian,46,1.75,1.75,96.5,13,18,14.9,1,1.75,0,0
+25-71619,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Lian,51,2.25,2.5,80.1,7,21,9.6,1,2.5,0,0
+24-71620,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,2,Nasugbu,31,2.5,2.25,87.0,11,18,6.8,0,2.25,0,0
+23-71621,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,3,Calatagan,31,2.25,2.0,80.8,8,18,35.3,1,2.0,0,0
+23-71622,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,3,Lian,54,2.25,2.25,90.1,5,21,12.6,1,2.25,0,0
+23-71623,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,3,Balayan,37,1.5,1.75,97.7,14,18,24.4,1,1.5,0,0
+24-71624,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Balayan,39,2.5,2.0,83.7,7,21,23.5,0,1.75,0,0
+22-71625,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,4,Nasugbu,37,1.75,2.0,95.4,9,18,7.5,1,2.0,0,1
+23-71626,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,3,Lian,41,2.5,2.25,89.2,8,21,6.1,0,2.25,1,0
+23-71627,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Psychology,3,Calatagan,54,2.25,2.25,92.5,7,18,33.6,1,2.5,1,0
+25-71628,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,43,2.0,2.0,96.2,14,21,3.6,1,2.0,0,0
+25-71629,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Balayan,33,2.5,2.25,81.5,8,21,26.8,1,2.25,0,0
+25-71630,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BA Communication,1,Lemery,49,2.25,2.75,79.6,8,15,44.8,1,2.5,1,0
+23-71631,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,3,Tuy,29,2.5,2.25,89.2,16,21,17.8,1,2.25,0,0
+24-71632,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,2,Balayan,29,2.75,2.75,78.8,5,15,29.0,1,2.75,1,0
+24-71633,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Balayan,37,1.75,1.75,85.0,18,21,28.4,0,1.25,0,0
+22-71634,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,4,Calatagan,38,2.25,2.0,81.1,7,18,39.2,0,2.25,1,0
+22-71635,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,57,2.25,2.0,94.0,13,21,1.0,1,2.0,0,1
+22-71636,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,4,Nasugbu,28,1.75,1.75,87.2,8,21,4.6,1,1.75,0,1
+25-71637,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,48,1.5,1.75,83.2,15,24,5.6,1,1.75,0,0
+23-71638,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,3,Tuy,35,1.75,1.75,93.5,13,21,18.9,1,1.75,0,0
+25-71639,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,1,Lian,58,1.75,2.25,91.7,20,21,7.7,1,2.75,0,0
+25-71640,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Balayan,56,1.0,2.0,84.9,5,21,31.1,0,2.25,0,0
+25-71641,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,36,1.75,2.0,93.5,11,24,5.3,0,2.0,0,0
+25-71642,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Tuy,42,1.75,1.75,74.0,8,21,16.3,1,1.0,0,0
+24-71643,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,2,Nasugbu,45,2.25,2.0,100.0,9,18,5.6,0,2.25,0,0
+22-71644,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,4,Balayan,41,2.25,2.0,85.2,12,24,32.3,1,1.75,0,1
+25-71645,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Lian,35,2.25,2.25,73.0,8,21,10.9,1,2.5,0,0
+23-71646,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,3,Nasugbu,37,2.0,2.25,97.0,12,24,4.5,1,2.25,0,0
+24-71647,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,2,Nasugbu,39,2.25,2.0,84.4,9,24,8.4,1,2.0,0,0
+25-71648,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Psychology,1,Balayan,48,1.75,2.0,93.9,8,18,25.6,1,2.25,0,0
+24-71649,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Lian,45,2.5,2.5,87.1,8,21,15.3,1,2.5,1,0
+25-71650,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,43,2.25,2.0,78.8,15,18,6.9,1,2.0,0,0
+24-71651,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Calaca,42,2.5,2.5,84.4,8,18,33.7,1,2.0,0,0
+24-71652,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Psychology,2,Tuy,33,2.25,2.0,87.1,9,18,17.8,0,2.0,0,0
+25-71653,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Calaca,47,2.25,2.25,92.9,7,21,34.7,1,2.0,0,0
+25-71654,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Lian,42,2.0,1.75,94.0,13,18,6.4,1,1.5,0,0
+24-71655,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Lian,47,2.25,2.25,80.2,7,15,11.7,1,2.25,0,0
+22-71656,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,4,Calatagan,47,2.25,2.5,90.2,4,21,31.8,1,2.75,0,1
+25-71657,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,1,Lian,49,2.25,2.25,86.2,9,18,11.7,1,2.25,0,0
+23-71658,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,3,Tuy,57,2.0,2.0,100.0,15,15,16.3,0,2.25,0,0
+23-71659,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,3,Nasugbu,45,2.0,2.0,85.4,7,18,6.8,1,2.0,0,0
+22-71660,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,4,Lian,40,2.25,1.75,87.4,8,18,12.8,0,1.5,0,1
+22-71661,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,37,2.25,2.0,82.8,9,21,2.7,1,1.75,0,1
+24-71662,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,2,Nasugbu,29,2.5,2.5,84.6,9,15,5.4,1,2.0,0,0
+23-71663,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,3,Nasugbu,36,1.5,1.75,82.9,23,24,4.7,0,1.75,0,0
+22-71664,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,4,Nasugbu,40,2.0,1.75,98.3,10,21,8.2,0,2.0,0,1
+24-71665,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,2,Calaca,38,2.0,2.25,75.2,4,18,33.4,0,2.5,0,0
+25-71666,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,1,Nasugbu,37,2.0,2.25,94.3,8,18,4.1,1,2.0,0,0
+25-71667,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,1,Tuy,37,2.25,2.5,93.9,10,21,17.9,0,2.75,1,0
+22-71668,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,4,Balayan,33,1.75,1.75,93.6,7,21,28.1,1,2.0,0,1
+23-71669,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,3,Lian,41,2.25,2.0,87.2,8,18,12.3,0,2.0,0,0
+25-71670,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,31,2.25,2.25,81.3,11,18,2.9,1,2.5,0,0
+24-71671,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,2,Tuy,42,1.75,2.25,84.3,10,24,18.6,1,2.5,0,0
+24-71672,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,2,Tuy,54,2.25,2.5,91.4,5,18,21.9,0,2.5,1,0
+25-71673,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Balayan,34,2.0,2.5,83.6,12,18,31.4,1,2.25,0,0
+22-71674,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,4,Balayan,58,2.75,2.75,88.3,8,24,29.2,1,2.5,0,1
+25-71675,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Calaca,46,2.5,2.75,92.0,8,21,35.7,1,2.75,1,0
+25-71676,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,1,Lian,43,2.25,2.0,93.6,4,18,10.4,1,2.0,1,0
+24-71677,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,2,Nasugbu,44,1.75,1.5,91.7,13,21,5.9,1,1.5,0,0
+23-71678,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Tuy,33,2.5,2.5,72.0,8,15,20.1,1,2.5,0,0
+25-71679,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,1,Nasugbu,38,2.25,2.5,83.5,16,21,1.0,0,2.0,0,0
+23-71680,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,3,Calatagan,42,2.25,2.0,81.5,12,21,35.4,1,2.0,0,0
+24-71681,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,2,Nasugbu,35,2.0,2.0,74.6,10,21,2.3,1,2.25,0,0
+25-71682,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,38,2.25,2.5,81.1,7,24,1.0,1,2.5,1,0
+25-71683,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Balayan,40,2.25,2.25,84.8,8,24,23.8,1,2.0,0,0
+24-71684,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,2,Lian,46,2.25,2.0,86.4,7,24,10.5,1,2.0,0,0
+25-71685,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,1,Nasugbu,37,2.25,2.0,92.5,5,21,2.0,1,2.0,0,0
+22-71686,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,4,Lian,36,2.25,2.25,86.8,10,18,5.2,1,2.25,0,1
+23-71687,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Calatagan,31,2.5,2.0,84.5,5,21,33.1,0,2.25,0,0
+22-71688,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,41,2.5,2.5,87.8,8,21,3.3,1,2.5,0,1
+25-71689,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,1,Calatagan,40,2.25,2.25,82.9,9,24,33.6,1,2.25,0,0
+22-71690,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,4,Nasugbu,53,1.5,1.25,94.2,12,18,2.9,1,1.25,0,1
+24-71691,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Balayan,37,2.25,2.0,95.6,10,24,32.6,1,2.25,0,0
+25-71692,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,1,Calatagan,43,2.5,1.75,78.5,12,21,35.3,1,1.75,0,0
+25-71693,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,1,Nasugbu,36,2.0,1.75,89.7,9,24,3.3,0,1.75,0,0
+25-71694,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,1,Lian,38,2.0,1.75,95.6,10,24,10.8,1,1.5,0,0
+23-71695,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,3,Nasugbu,30,2.25,2.0,77.3,8,18,8.0,1,1.75,0,0
+24-71696,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,2,Tuy,36,1.75,2.25,99.3,14,15,21.9,1,1.75,0,0
+25-71697,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,1,Lian,40,1.5,2.0,96.3,10,15,7.5,1,1.75,0,0
+23-71698,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Tuy,40,2.0,2.5,75.8,7,18,17.1,0,2.5,1,0
+25-71699,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,48,1.75,2.0,93.7,6,21,2.5,1,2.0,0,0
+24-71700,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,2,Nasugbu,35,1.5,1.75,84.6,13,21,3.4,1,1.75,0,0
+24-71701,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,2,Nasugbu,47,1.75,2.25,88.0,12,24,3.0,1,2.5,0,0
+22-71702,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,51,2.5,2.5,93.1,7,21,4.6,1,2.5,0,1
+22-71703,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,4,Lian,54,2.25,2.5,96.5,9,15,12.8,1,2.5,0,1
+24-71704,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,2,Calatagan,38,2.0,1.75,80.9,9,18,36.3,1,1.5,1,0
+24-71705,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,2,Tuy,35,2.0,1.75,82.3,10,15,18.7,1,1.75,0,0
+24-71706,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BA Communication,2,Lian,40,2.25,2.25,92.8,11,18,6.9,1,2.0,0,0
+23-71707,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,3,Calaca,37,2.5,2.5,88.9,8,21,33.4,1,2.75,0,0
+25-71708,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Tuy,28,2.25,2.0,78.4,9,15,18.2,1,2.0,0,0
+25-71709,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,1,Lemery,42,2.25,2.25,95.7,10,18,40.9,0,2.25,1,0
+25-71710,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Lian,48,2.0,1.75,84.1,12,18,13.9,1,1.75,0,0
+24-71711,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,31,2.0,2.0,95.9,13,21,1.6,0,2.0,0,0
+24-71712,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,57,1.5,1.75,93.6,10,21,6.0,1,2.0,0,0
+22-71713,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,4,Tuy,38,2.0,2.25,92.8,9,21,15.3,0,1.75,0,1
+25-71714,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,56,2.0,2.25,85.8,10,21,6.1,1,2.25,0,0
+24-71715,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Nasugbu,38,1.75,1.75,76.0,9,24,4.2,1,1.75,0,0
+23-71716,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Lian,40,2.25,1.75,88.4,14,18,14.8,1,1.75,0,0
+22-71717,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,4,Lian,33,2.25,1.75,87.5,13,21,8.2,1,1.75,0,1
+24-71718,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Tuy,57,2.5,2.75,81.0,1,21,18.1,1,3.0,1,0
+24-71719,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Nasugbu,36,2.5,2.5,97.4,13,21,3.6,1,2.5,0,0
+25-71720,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,44,2.25,2.25,88.1,14,24,4.1,0,2.0,0,0
+22-71721,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,4,Tuy,43,2.25,2.5,79.8,5,18,18.6,1,2.5,0,1
+25-71722,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,1,Calaca,55,1.75,2.5,88.7,7,21,35.2,1,2.75,1,0
+22-71723,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,4,Tuy,51,2.25,2.5,92.2,6,15,18.6,1,2.75,0,1
+23-71724,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,3,Lemery,38,2.5,2.25,76.4,9,21,38.8,1,2.5,1,0
+24-71725,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,2,Balayan,36,1.75,2.0,92.1,6,18,30.5,1,1.75,0,0
+25-71726,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,1,Lian,47,2.0,1.5,100.0,8,18,18.2,1,1.5,0,0
+24-71727,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,2,Nasugbu,48,2.25,2.5,82.6,10,21,5.2,1,2.75,0,0
+24-71728,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Tuy,47,2.25,2.25,84.6,9,21,16.7,1,2.25,0,0
+25-71729,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Tuy,45,2.25,2.5,90.5,7,15,16.9,0,2.5,0,0
+23-71730,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,3,Tuy,42,1.75,1.5,100.0,14,21,21.0,1,1.5,0,0
+22-71731,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,4,Lian,49,2.25,2.5,83.8,8,21,12.0,0,2.75,0,1
+24-71732,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,2,Lian,51,2.5,2.25,82.7,5,18,10.3,1,2.0,0,0
+23-71733,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,3,Nasugbu,35,2.0,2.0,81.2,14,21,6.4,1,2.0,0,0
+25-71734,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Lian,47,2.0,1.75,99.1,6,21,5.8,1,1.75,0,0
+24-71735,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,45,2.25,2.5,82.9,12,21,6.4,1,2.25,0,0
+25-71736,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Balayan,43,2.25,2.5,79.7,8,18,28.6,1,2.75,0,0
+23-71737,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,3,Nasugbu,53,1.75,2.0,92.8,11,18,2.0,1,1.5,0,0
+22-71738,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,4,Nasugbu,58,2.5,2.75,93.5,9,21,1.0,1,3.0,0,1
+23-71739,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,3,Lian,53,1.75,2.0,97.0,9,24,11.3,1,2.25,0,0
+25-71740,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Tuy,48,2.0,2.0,87.6,9,21,23.0,0,1.75,0,0
+24-71741,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Lian,53,2.25,2.5,91.2,7,15,10.4,1,2.5,0,0
+24-71742,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,2,Nasugbu,50,2.25,2.25,90.3,10,21,2.4,1,2.25,1,0
+24-71743,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Lian,31,2.25,2.5,77.6,13,24,11.5,1,2.75,0,0
+22-71744,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,44,1.25,1.5,86.0,11,15,9.1,1,2.25,0,1
+23-71745,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,3,Lemery,41,2.0,2.75,80.7,11,24,45.1,1,2.75,1,0
+23-71746,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,3,Lemery,57,2.25,2.5,79.2,6,24,45.3,1,2.75,1,0
+24-71747,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,2,Lian,36,2.25,2.25,75.2,8,15,14.1,1,2.0,0,0
+25-71748,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,48,2.25,2.25,80.0,14,24,5.7,0,2.25,0,0
+25-71749,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Balayan,39,2.5,2.5,83.8,9,18,26.0,1,2.5,0,0
+24-71750,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,2,Nasugbu,53,2.0,2.25,98.0,12,24,1.0,1,2.5,0,0
+24-71751,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,2,Lian,38,1.75,1.75,99.7,17,21,8.7,1,1.5,0,0
+23-71752,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,3,Nasugbu,47,2.0,2.0,87.6,11,21,1.7,1,1.75,0,0
+23-71753,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,3,Lemery,42,2.75,2.25,77.2,7,21,45.6,1,2.5,0,0
+25-71754,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,39,2.0,1.75,87.5,16,21,6.5,1,1.75,0,0
+24-71755,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Psychology,2,Lian,40,2.25,2.25,81.7,9,15,11.4,1,2.5,0,0
+25-71756,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Balayan,41,2.25,2.5,90.0,11,21,24.8,1,2.5,0,0
+25-71757,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Lian,38,2.25,1.75,100.0,13,18,15.5,1,1.75,0,0
+22-71758,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,47,2.0,1.75,83.6,7,18,3.5,1,1.75,0,1
+25-71759,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,1,Calaca,53,2.25,2.25,75.4,4,18,37.5,1,2.25,1,0
+24-71760,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,2,Lian,58,1.5,2.25,96.5,10,21,11.1,1,2.5,0,0
+25-71761,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Tuy,56,2.0,2.5,89.8,12,18,20.0,1,2.5,0,0
+22-71762,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,35,2.0,1.75,90.5,19,15,5.9,1,2.0,0,1
+24-71763,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Lian,50,1.75,2.5,100.0,10,18,9.3,0,2.5,0,0
+25-71764,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,1,Lian,52,2.75,2.5,78.8,7,15,14.3,0,2.25,0,0
+24-71765,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,2,Nasugbu,39,2.25,2.5,79.1,9,21,1.0,1,2.25,0,0
+23-71766,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,3,Nasugbu,56,2.0,2.5,90.0,9,24,1.9,1,2.5,0,0
+22-71767,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,4,Balayan,43,2.0,1.75,83.5,8,15,31.2,1,2.0,0,1
+25-71768,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Nasugbu,58,1.75,2.25,87.7,8,24,6.0,1,2.25,0,0
+22-71769,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,4,Nasugbu,46,2.0,1.75,100.0,6,21,10.9,1,1.75,0,1
+22-71770,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,4,Lian,52,2.25,2.0,87.0,12,21,11.2,1,2.0,0,1
+22-71771,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Balayan,31,2.25,2.25,78.9,11,21,32.3,1,2.25,1,0
+23-71772,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Nasugbu,55,2.0,2.0,92.2,10,24,1.0,1,2.0,0,0
+23-71773,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,3,Lian,54,1.75,2.0,97.0,9,15,7.5,1,2.0,0,0
+24-71774,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Nasugbu,56,1.75,2.75,84.9,9,21,6.7,1,3.0,0,0
+23-71775,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Nasugbu,42,2.0,2.25,90.2,13,21,1.0,1,2.25,0,0
+24-71776,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,2,Nasugbu,39,2.0,1.75,95.7,8,21,4.0,1,1.5,0,0
+23-71777,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,3,Balayan,53,2.0,2.0,92.9,7,24,30.9,1,1.75,0,0
+24-71778,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,58,2.0,2.25,91.9,11,15,5.8,1,2.5,0,0
+23-71779,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,3,Nasugbu,49,2.0,2.5,100.0,13,21,4.5,1,2.25,0,0
+22-71780,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,4,Lian,36,2.25,1.75,100.0,9,21,9.9,1,1.5,0,1
+25-71781,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,1,Calatagan,37,2.5,2.5,72.3,10,18,34.5,1,2.25,0,0
+22-71782,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,4,Nasugbu,40,2.5,2.5,75.9,7,18,5.9,1,2.5,0,1
+24-71783,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,2,Lian,53,2.0,2.5,95.4,14,21,9.3,1,3.0,0,0
+22-71784,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,4,Nasugbu,46,2.0,2.0,98.1,12,24,5.4,1,2.0,0,1
+24-71785,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,2,Lian,46,2.5,2.0,84.9,14,21,13.7,1,1.75,0,0
+24-71786,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Lian,44,2.25,2.25,83.6,11,24,10.4,1,2.0,0,0
+22-71787,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,4,Lian,52,1.75,2.5,83.4,12,21,11.2,1,2.25,0,1
+25-71788,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,54,1.75,2.0,82.0,9,15,5.7,1,1.75,0,0
+22-71789,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,48,2.0,1.75,96.3,9,15,5.9,1,1.5,0,1
+24-71790,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Hospitality Management,2,Nasugbu,38,2.25,2.25,87.4,9,15,6.7,1,2.25,0,0
+24-71791,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,2,Nasugbu,37,2.25,1.75,91.1,12,18,2.0,1,1.75,0,0
+25-71792,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,1,Nasugbu,40,1.75,2.0,75.5,11,18,3.2,1,2.0,0,0
+24-71793,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,2,Balayan,36,2.25,2.25,91.2,15,21,26.8,1,2.25,0,0
+25-71794,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,1,Calaca,39,2.5,2.5,89.0,5,21,33.7,1,2.25,0,0
+25-71795,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Calaca,41,2.5,2.25,73.3,8,15,31.5,1,2.0,0,0
+25-71796,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Psychology,1,Calatagan,43,2.25,2.5,86.0,14,18,25.9,1,2.25,0,0
+25-71797,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,1,Tuy,47,2.0,2.5,84.8,14,18,22.5,0,2.25,0,0
+22-71798,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,4,Tuy,46,2.0,2.25,85.1,9,21,15.6,1,2.25,0,1
+22-71799,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,4,Nasugbu,28,2.5,2.0,66.7,13,18,8.4,0,2.25,0,1
+24-71800,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Tuy,52,2.5,2.0,82.5,3,18,21.3,1,1.75,0,0
+23-71801,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Lian,51,2.0,2.5,91.7,6,24,10.0,1,2.5,0,0
+25-71802,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Lian,42,2.75,2.5,82.9,9,21,12.5,1,2.5,0,0
+23-71803,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,3,Balayan,43,1.75,2.25,81.9,5,18,29.1,1,2.25,0,0
+23-71804,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,3,Nasugbu,38,2.0,1.75,100.0,7,21,1.7,1,1.75,0,0
+22-71805,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,51,1.75,2.0,90.0,13,18,4.5,1,2.0,0,1
+24-71806,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Lemery,44,2.5,2.75,65.9,8,21,41.6,1,2.5,1,0
+23-71807,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,3,Nasugbu,38,1.75,1.75,86.7,4,21,6.1,1,1.75,0,0
+25-71808,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,1,Lian,38,2.5,2.5,90.4,10,18,9.2,1,2.5,0,0
+22-71809,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,4,Lemery,52,2.5,2.5,76.8,9,21,43.8,1,2.75,0,1
+25-71810,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,1,Tuy,30,2.25,2.25,90.8,8,18,19.2,1,2.25,0,0
+24-71811,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,2,Lian,39,2.0,1.75,76.5,10,18,11.3,1,1.75,0,0
+23-71812,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,3,Nasugbu,46,2.25,2.25,88.8,10,18,8.7,1,2.5,0,0
+23-71813,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,3,Nasugbu,43,2.25,2.75,77.9,8,21,3.9,1,3.0,0,0
+25-71814,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Calatagan,41,2.5,2.5,79.8,8,18,37.0,1,2.5,0,0
+22-71815,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,4,Lian,43,2.0,1.75,92.0,9,18,12.2,1,1.75,0,1
+25-71816,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Lian,48,2.0,2.5,85.2,10,18,14.5,1,2.5,0,0
+23-71817,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BA Communication,3,Nasugbu,41,2.5,2.0,89.2,8,15,3.7,1,2.0,0,0
+25-71818,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Nasugbu,55,2.25,2.75,90.5,16,21,6.2,0,2.75,0,0
+25-71819,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Calaca,37,2.0,1.75,84.9,12,18,35.9,1,1.5,0,0
+24-71820,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,44,2.0,2.0,96.3,13,15,1.0,0,2.0,0,0
+24-71821,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,2,Tuy,56,2.25,2.75,93.2,6,21,16.8,0,3.0,0,0
+25-71822,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Psychology,1,Nasugbu,41,2.0,1.75,100.0,8,21,6.0,1,2.0,0,0
+25-71823,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Tuy,38,2.5,2.25,88.5,8,21,20.8,1,2.0,0,0
+24-71824,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Lemery,45,2.25,2.5,69.2,6,21,40.8,1,2.25,1,0
+23-71825,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Lian,41,1.75,1.25,93.2,8,18,11.6,1,1.5,0,0
+22-71826,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,42,2.0,2.25,100.0,9,21,5.8,1,2.5,0,1
+25-71827,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Lian,36,1.75,1.75,100.0,5,21,10.9,1,1.75,0,0
+24-71828,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Balayan,58,1.75,2.5,96.0,12,18,29.8,1,2.25,0,0
+25-71829,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,36,2.5,2.0,86.8,8,24,6.0,1,1.75,0,0
+25-71830,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,1,Calatagan,42,2.0,1.75,83.9,8,15,33.9,0,1.5,0,0
+23-71831,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,3,Tuy,41,1.75,1.75,85.9,5,24,18.2,1,2.0,0,0
+24-71832,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,2,Calatagan,48,2.5,2.25,81.3,8,24,36.6,1,2.0,0,0
+25-71833,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,1,Tuy,41,2.0,2.0,84.3,6,21,20.7,0,2.25,0,0
+25-71834,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,33,2.0,1.75,98.4,12,24,1.0,1,1.75,0,0
+25-71835,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,50,2.5,2.0,79.0,9,21,5.1,1,1.75,0,0
+22-71836,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,4,Nasugbu,39,2.25,2.25,81.8,9,18,1.6,1,2.5,0,1
+22-71837,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,4,Calatagan,49,1.5,2.0,94.0,9,21,31.6,1,2.25,0,1
+25-71838,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,1,Balayan,47,1.5,1.75,94.5,8,15,26.4,1,1.5,0,0
+25-71839,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Tuy,42,2.0,2.25,82.8,10,18,19.6,0,2.25,1,0
+22-71840,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,49,2.0,2.0,100.0,7,21,5.4,1,2.25,0,1
+22-71841,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,4,Nasugbu,45,2.25,1.75,97.8,12,18,3.5,1,1.75,0,1
+24-71842,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,2,Balayan,28,2.25,2.25,82.0,4,18,27.1,1,2.5,0,0
+25-71843,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,1,Lian,35,3.0,2.75,69.8,7,21,9.7,1,2.5,1,0
+25-71844,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,1,Nasugbu,43,1.75,2.0,78.1,11,24,7.1,0,1.75,0,0
+24-71845,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,2,Tuy,39,2.25,1.75,84.3,7,15,12.4,0,1.75,0,0
+24-71846,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,2,Nasugbu,51,1.75,2.25,96.2,10,18,3.7,1,2.0,0,0
+25-71847,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,32,2.0,1.75,93.1,14,18,8.4,1,1.75,0,0
+24-71848,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,2,Lian,35,2.5,2.0,83.5,12,21,12.3,1,2.0,0,0
+25-71849,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,1,Nasugbu,43,2.5,2.25,86.1,12,15,7.7,1,2.0,0,0
+23-71850,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,3,Taal,53,2.0,2.25,82.7,12,21,42.9,1,2.75,0,0
+25-71851,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,1,Nasugbu,49,2.25,2.25,89.6,13,18,1.4,1,2.25,0,0
+25-71852,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,1,Nasugbu,47,2.0,2.25,89.3,14,18,5.8,0,2.5,0,0
+24-71853,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,2,Nasugbu,42,1.75,2.0,87.4,11,24,8.4,1,2.25,0,0
+24-71854,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Balayan,28,2.25,2.25,72.2,8,15,25.1,0,2.5,1,0
+22-71855,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,4,Lian,30,1.75,2.0,85.8,17,21,10.0,1,1.75,0,1
+24-71856,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,2,Lian,43,2.0,1.5,88.9,15,15,12.0,1,1.0,0,0
+25-71857,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,55,1.75,2.25,98.4,13,21,1.0,0,2.75,0,0
+23-71858,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,3,Nasugbu,31,2.25,2.0,82.2,10,21,5.8,1,2.0,1,0
+25-71859,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,1,Lian,45,2.25,2.5,92.1,9,18,4.3,0,2.5,0,0
+22-71860,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,4,Balayan,57,2.25,2.75,89.7,10,18,29.2,1,2.75,0,1
+24-71861,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,2,Calatagan,54,2.25,2.25,84.1,9,18,31.5,1,2.25,0,0
+24-71862,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Nasugbu,45,2.75,2.5,76.0,9,21,3.4,0,2.75,1,0
+25-71863,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,1,Lian,38,2.5,2.5,96.3,10,21,12.6,1,2.25,0,0
+24-71864,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,2,Lemery,46,2.0,1.5,87.9,10,21,45.1,0,1.5,1,0
+22-71865,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,44,2.25,2.0,90.0,15,21,4.5,0,2.25,0,1
+23-71866,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,3,Balayan,52,2.75,3.0,85.7,10,18,30.4,1,3.0,0,0
+25-71867,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,42,2.5,2.5,76.3,12,18,1.0,1,2.5,0,0
+25-71868,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,1,Lemery,28,2.25,2.0,86.0,7,18,44.5,1,2.0,0,0
+23-71869,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Balayan,38,1.5,1.75,94.8,5,18,26.0,1,2.0,0,0
+22-71870,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,4,Lemery,58,2.25,2.5,74.2,4,18,46.3,1,2.75,1,0
+25-71871,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,1,Tuy,32,1.75,1.75,94.7,11,21,21.2,1,2.0,0,0
+24-71872,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,2,Nasugbu,47,2.25,2.25,98.4,11,21,6.3,1,2.0,0,0
+25-71873,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Psychology,1,Lemery,50,2.25,2.5,73.6,4,24,48.1,1,2.75,0,0
+22-71874,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,4,Nasugbu,46,2.0,2.25,87.2,10,18,7.3,1,2.0,0,1
+25-71875,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,40,2.5,2.75,80.6,8,21,4.1,1,2.75,0,0
+25-71876,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,1,Tuy,40,2.0,1.75,87.1,8,21,19.5,1,2.0,0,0
+23-71877,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,3,Balayan,50,2.25,2.25,88.8,9,21,29.5,0,2.0,0,0
+25-71878,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BA Communication,1,Lemery,53,2.5,2.5,73.1,3,18,44.3,1,3.0,1,0
+24-71879,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Nasugbu,47,2.25,2.0,90.8,6,18,6.3,1,2.25,0,0
+24-71880,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,2,Balayan,32,2.25,2.0,89.4,7,15,22.4,1,2.0,0,0
+25-71881,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,1,Balayan,37,2.25,2.25,89.7,9,18,32.7,1,2.0,1,0
+24-71882,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,2,Nasugbu,55,2.0,2.5,93.8,9,21,4.7,0,2.5,0,0
+24-71883,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,50,1.75,2.25,82.5,10,15,1.0,1,2.25,1,0
+25-71884,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,1,Nasugbu,55,2.0,2.0,90.2,11,18,2.2,1,1.75,0,0
+24-71885,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,2,Nasugbu,29,2.25,2.25,91.6,3,21,1.0,1,2.5,0,0
+23-71886,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,3,Taal,57,2.25,2.25,93.0,11,21,45.3,1,2.25,0,0
+23-71887,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,3,Tuy,43,2.0,1.75,85.5,8,21,19.1,1,1.75,0,0
+25-71888,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,1,Tuy,41,2.25,2.0,89.9,5,21,23.3,1,2.0,0,0
+25-71889,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Calaca,40,2.25,2.25,75.2,11,18,37.0,1,2.25,0,0
+25-71890,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,54,1.75,2.25,82.2,15,18,5.1,1,2.5,0,0
+24-71891,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,2,Balayan,47,2.0,2.25,75.0,10,18,25.2,0,2.0,1,0
+24-71892,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,2,Lian,37,2.25,2.25,86.7,11,21,8.9,1,2.5,0,0
+23-71893,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,3,Calatagan,43,2.25,2.0,99.9,6,24,32.1,1,1.75,0,0
+25-71894,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,46,2.0,2.25,88.1,10,15,2.7,1,2.25,0,0
+25-71895,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,1,Lemery,28,2.25,2.5,83.3,6,21,43.1,1,2.25,0,0
+24-71896,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,2,Nasugbu,45,2.25,2.0,92.6,5,18,3.8,0,2.25,0,0
+23-71897,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,3,Nasugbu,46,2.5,2.25,80.7,8,21,3.7,1,2.5,0,0
+25-71898,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,1,Balayan,53,2.25,2.25,83.1,12,15,26.3,1,2.5,0,0
+23-71899,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Nasugbu,49,2.25,2.0,95.0,9,18,4.8,1,2.0,0,0
+25-71900,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BS Psychology,1,Tuy,35,2.25,2.25,88.6,6,21,18.7,1,2.25,0,0
+22-71901,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,4,Lian,45,2.5,2.5,75.7,12,21,7.0,1,2.25,0,1
+22-71902,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,4,Balayan,42,1.75,1.75,88.0,10,21,28.1,1,1.5,0,1
+25-71903,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,38,2.75,2.25,84.5,8,18,4.2,1,2.25,0,0
+25-71904,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,38,2.25,2.0,87.5,10,18,1.0,1,2.0,0,0
+24-71905,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Nasugbu,41,2.25,2.25,91.6,10,18,3.0,1,2.0,0,0
+25-71906,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Lian,47,1.75,1.5,100.0,6,24,12.5,1,1.25,0,0
+23-71907,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Psychology,3,Nasugbu,47,2.0,2.25,89.7,7,24,1.7,0,2.25,0,0
+22-71908,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,4,Nasugbu,31,2.0,2.25,97.5,13,21,1.4,1,2.5,0,1
+23-71909,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Nasugbu,56,1.75,2.25,80.4,12,18,3.7,0,2.0,0,0
+22-71910,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,4,Nasugbu,36,1.75,2.0,89.0,8,24,6.1,1,2.0,0,1
+24-71911,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,2,Lian,37,2.0,2.25,82.3,3,21,15.5,1,2.25,0,0
+25-71912,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,1,Calatagan,31,1.75,2.0,84.2,8,21,35.6,1,1.75,0,0
+23-71913,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BA Communication,3,Nasugbu,42,2.0,1.75,87.9,12,18,7.2,1,2.0,0,0
+24-71914,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Lian,36,2.25,2.5,77.3,10,21,11.9,1,2.5,1,0
+23-71915,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,3,Tuy,45,2.75,2.5,81.6,3,21,17.8,1,2.0,0,0
+25-71916,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,39,2.0,2.0,76.2,7,21,6.1,1,2.0,0,0
+25-71917,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Tuy,38,2.25,2.75,76.0,8,21,19.3,1,3.0,0,0
+22-71918,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,4,Nasugbu,54,1.75,2.0,93.9,15,18,5.4,1,2.0,0,1
+25-71919,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Lian,51,1.5,2.0,88.0,10,21,8.6,1,1.75,0,0
+22-71920,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,39,2.25,2.25,89.8,10,21,5.7,1,2.25,0,1
+22-71921,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,4,Tuy,43,2.25,1.75,98.5,6,18,19.2,1,1.75,0,1
+23-71922,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Tuy,32,2.25,2.0,83.1,8,18,20.1,1,2.0,1,0
+23-71923,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Nasugbu,47,1.5,2.25,95.2,13,15,4.3,1,2.25,0,0
+24-71924,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,2,Nasugbu,53,2.0,2.25,90.9,10,21,3.8,1,2.25,0,0
+22-71925,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,4,Calaca,58,2.25,2.5,100.0,2,18,37.2,0,2.5,0,1
+25-71926,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,1,Lian,38,2.5,2.25,65.6,10,21,10.0,1,2.25,0,0
+24-71927,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,2,Lian,36,2.5,2.5,82.7,5,18,7.0,1,2.25,0,0
+23-71928,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Psychology,3,Calatagan,39,2.25,2.25,90.3,8,24,29.3,1,2.5,0,0
+24-71929,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Tuy,30,2.25,2.25,79.9,17,18,20.0,1,2.5,0,0
+24-71930,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,2,Lian,43,2.25,2.5,93.6,3,18,9.9,0,2.25,0,0
+25-71931,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,1,Balayan,44,2.25,2.0,86.3,7,21,23.7,0,2.25,0,0
+24-71932,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,2,Calatagan,41,2.25,2.0,88.7,13,21,34.3,1,2.0,0,0
+22-71933,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,4,Lian,28,2.25,2.5,79.0,10,18,10.8,1,2.75,1,0
+25-71934,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Lian,44,2.5,2.75,88.6,10,18,9.8,1,2.75,0,0
+22-71935,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,4,Nasugbu,35,2.25,2.25,91.6,11,18,5.1,1,2.25,0,1
+23-71936,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,3,Calaca,53,2.0,2.5,84.6,8,21,39.3,1,2.5,0,0
+22-71937,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Tuy,32,1.75,1.75,85.8,16,21,22.7,1,1.25,0,1
+24-71938,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,2,Nasugbu,43,2.0,2.0,99.2,7,21,4.9,1,2.25,0,0
+23-71939,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,3,Calatagan,30,2.0,2.25,70.4,6,21,33.8,1,2.0,0,0
+25-71940,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Lian,46,2.0,2.0,87.9,10,21,11.4,1,2.25,0,0
+23-71941,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,3,Nasugbu,36,2.25,2.5,79.5,13,18,5.3,1,2.75,0,0
+25-71942,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,1,Lian,46,2.5,2.5,94.9,7,24,10.3,1,2.25,0,0
+22-71943,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,4,Nasugbu,37,2.25,2.0,84.5,11,24,4.9,0,1.75,0,1
+22-71944,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,4,Calatagan,28,2.5,2.0,65.5,12,18,30.1,1,2.25,0,1
+25-71945,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,57,1.75,2.0,96.2,10,18,4.7,1,2.0,0,0
+25-71946,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,1,Balayan,49,2.5,2.25,83.7,7,18,29.2,0,2.5,1,0
+23-71947,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,3,Lian,41,2.25,2.25,89.9,11,18,9.8,0,2.0,0,0
+25-71948,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,28,2.25,1.75,98.7,4,21,4.3,1,2.0,0,0
+22-71949,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Calaca,43,1.5,2.0,85.3,9,21,33.2,1,2.0,0,1
+25-71950,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Lian,42,2.25,2.25,88.9,13,21,7.9,1,2.25,0,0
+25-71951,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,1,Nasugbu,48,2.5,2.5,90.2,10,21,5.0,1,2.75,0,0
+22-71952,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,4,Lian,39,2.25,2.5,79.2,11,21,9.2,1,2.5,0,1
+23-71953,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,3,Calatagan,43,2.25,2.25,81.8,8,21,29.6,0,2.5,0,0
+22-71954,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,4,Nasugbu,50,1.75,2.0,100.0,12,15,1.7,1,1.75,0,1
+25-71955,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Nasugbu,58,1.5,2.5,88.4,12,18,2.1,1,2.5,0,0
+23-71956,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,3,Nasugbu,42,2.0,2.0,86.9,7,21,6.4,1,2.0,0,0
+24-71957,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Nasugbu,42,2.5,2.25,99.6,10,15,4.9,1,2.0,0,0
+24-71958,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,2,Balayan,35,2.5,2.25,73.0,8,15,25.8,1,2.5,0,0
+23-71959,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,3,Lian,47,1.75,2.0,94.1,12,24,9.5,1,2.0,0,0
+24-71960,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,52,2.0,2.75,78.5,14,21,7.8,1,2.75,0,0
+24-71961,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,37,2.75,2.5,90.8,7,18,6.8,1,2.75,0,0
+25-71962,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,30,1.75,1.75,88.8,11,21,1.7,1,1.5,0,0
+23-71963,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,3,Lemery,54,2.0,2.25,86.5,9,21,46.9,1,2.0,0,0
+25-71964,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,35,2.0,2.0,81.2,15,18,4.3,0,2.0,0,0
+23-71965,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Psychology,3,Taal,53,1.75,2.25,77.6,7,15,50.0,1,2.5,1,0
+25-71966,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,1,Lian,40,1.75,1.75,94.2,10,24,10.6,0,1.75,0,0
+23-71967,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,3,Nasugbu,48,2.0,2.25,84.1,16,18,7.5,1,2.0,0,0
+23-71968,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,3,Calatagan,37,1.75,2.0,88.5,10,15,31.1,1,2.0,0,0
+25-71969,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Lian,43,2.25,2.0,90.9,14,21,10.4,1,1.75,0,0
+25-71970,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Tuy,50,1.75,2.0,83.8,7,21,22.5,1,2.25,1,0
+25-71971,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,1,Taal,28,2.25,2.25,78.6,7,18,42.0,0,2.25,0,0
+24-71972,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,2,Nasugbu,46,1.75,1.75,90.6,14,18,4.4,0,2.0,0,0
+22-71973,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,44,2.0,2.25,87.0,11,18,3.5,1,2.25,0,1
+25-71974,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,1,Tuy,57,1.75,2.25,92.5,10,24,21.2,1,2.25,0,0
+23-71975,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,3,Nasugbu,47,2.25,2.5,85.2,10,18,7.2,1,2.0,0,0
+25-71976,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,42,2.25,2.25,83.9,15,21,6.3,0,2.0,0,0
+24-71977,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Hospitality Management,2,Nasugbu,47,2.25,2.0,97.0,13,24,5.1,1,2.0,0,0
+22-71978,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,29,1.75,1.75,85.3,16,18,4.6,1,1.75,0,1
+25-71979,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,1,Balayan,46,2.75,2.25,80.0,7,24,27.1,1,2.25,1,0
+24-71980,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Nasugbu,43,2.25,2.5,72.6,3,24,5.0,1,2.75,0,0
+25-71981,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,1,Lian,42,2.25,1.75,81.1,5,24,14.6,0,1.75,0,0
+25-71982,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,1,Tuy,58,2.75,3.0,82.0,8,18,17.4,1,3.0,0,0
+25-71983,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Lian,56,3.0,3.0,85.6,9,21,10.0,1,3.0,1,0
+25-71984,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,37,2.5,1.5,85.4,11,21,4.3,1,1.5,0,0
+23-71985,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Balayan,36,2.0,2.25,90.3,8,24,30.5,1,2.0,0,0
+24-71986,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,2,Nasugbu,57,2.25,2.75,84.9,11,18,5.1,1,2.75,0,0
+24-71987,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,2,Balayan,45,2.5,2.25,80.4,6,21,30.5,1,1.75,1,0
+25-71988,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,1,Calatagan,44,2.25,2.0,83.1,9,18,36.6,0,1.75,0,0
+25-71989,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Lian,55,2.0,2.25,81.1,7,18,12.5,1,2.0,0,0
+23-71990,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,3,Lian,45,2.0,1.75,100.0,15,21,8.3,1,1.75,0,0
+22-71991,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Psychology,4,Lian,53,1.75,2.25,94.2,12,21,15.2,1,2.5,0,1
+25-71992,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,45,2.0,2.0,79.3,9,21,8.0,1,1.75,0,0
+22-71993,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BSED,4,Calatagan,42,2.0,2.25,89.8,11,21,34.2,0,2.0,0,1
+24-71994,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,2,Calatagan,43,2.0,2.0,94.2,10,24,30.5,1,2.25,0,0
+24-71995,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Nasugbu,45,2.5,2.25,83.1,7,18,1.0,1,2.0,1,0
+24-71996,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,2,Tuy,44,2.25,2.0,76.9,7,21,20.1,1,2.0,0,0
+25-71997,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,1,Lemery,48,2.25,2.0,78.7,6,18,42.2,1,2.25,0,0
+25-71998,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Calaca,35,2.5,2.75,72.8,8,18,31.7,1,2.5,1,0
+24-71999,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Lian,43,2.25,2.25,84.5,8,21,7.1,0,2.0,0,0
+25-72000,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,1,Lian,48,2.25,2.25,84.5,13,24,9.8,1,2.25,0,0
+22-72001,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,4,Nasugbu,41,2.0,2.5,91.9,9,21,5.0,1,2.25,0,1
+24-72002,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Calaca,39,2.25,2.25,82.0,7,21,39.5,1,2.25,0,0
+25-72003,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,1,Nasugbu,36,1.75,1.75,89.3,12,15,5.7,1,1.75,0,0
+23-72004,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,3,Lian,52,2.0,2.5,86.0,11,18,10.0,1,2.5,1,0
+25-72005,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,37,2.5,2.25,81.0,8,21,5.4,0,2.5,0,0
+24-72006,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Nasugbu,43,2.0,2.0,94.7,12,15,5.2,1,2.0,0,0
+23-72007,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,3,Nasugbu,36,1.75,2.25,92.1,6,18,6.3,1,2.25,0,0
+22-72008,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,4,Taal,37,2.75,2.5,75.3,8,21,47.9,1,2.5,1,0
+23-72009,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BA Communication,3,Nasugbu,37,2.5,2.5,80.0,8,15,7.1,0,2.25,0,0
+23-72010,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,3,Lian,43,2.25,2.0,97.9,8,18,13.1,1,2.25,0,0
+23-72011,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,3,Nasugbu,34,2.25,2.5,90.1,9,21,4.7,0,2.5,0,0
+22-72012,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,4,Nasugbu,32,1.75,2.0,91.3,10,21,4.2,1,2.25,0,1
+25-72013,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BA Communication,1,Lian,42,2.25,2.0,92.0,10,24,13.3,0,1.75,0,0
+25-72014,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Lian,42,2.5,2.25,81.0,10,21,9.2,1,2.25,0,0
+25-72015,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,38,1.75,1.25,99.9,13,21,1.0,1,1.0,0,0
+25-72016,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,42,1.5,2.0,86.2,8,24,1.0,1,1.75,0,0
+23-72017,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Nasugbu,48,2.0,1.75,94.7,11,21,2.5,1,2.0,0,0
+23-72018,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Nasugbu,47,2.0,1.75,98.6,14,18,6.1,1,1.75,0,0
+24-72019,2023-24,1st,2023-24 1st,CICS,CICS,BS Information Technology,2,Calaca,39,1.75,1.75,85.1,11,18,34.9,1,1.5,0,0
+25-72020,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,1,Lemery,45,2.5,2.0,74.1,2,21,44.5,1,1.75,1,0
+23-72021,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,3,Nasugbu,31,2.5,2.5,70.7,5,21,3.3,1,2.75,0,0
+25-72022,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,1,Lian,42,1.75,2.0,87.1,7,21,9.8,0,1.75,0,0
+23-72023,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,3,Calatagan,36,2.75,2.25,84.8,5,21,31.4,1,2.0,1,0
+24-72024,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,2,Nasugbu,34,2.25,2.0,84.3,12,21,4.3,0,2.0,0,0
+25-72025,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,1,Balayan,41,1.75,1.75,87.0,3,24,27.6,1,1.75,0,0
+25-72026,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Lemery,40,2.5,2.5,83.4,9,21,45.0,1,2.25,0,0
+25-72027,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,35,2.25,1.75,95.4,7,15,5.2,1,1.75,0,0
+22-72028,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,4,Nasugbu,47,2.5,2.25,89.1,9,24,4.0,1,2.25,0,1
+22-72029,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,4,Calaca,50,2.0,1.75,84.7,11,18,32.2,0,1.75,0,1
+23-72030,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,3,Lian,45,2.25,2.25,87.5,12,21,13.7,1,1.75,0,0
+25-72031,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,1,Nasugbu,43,2.0,2.0,88.7,16,24,4.3,0,2.0,0,0
+24-72032,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,2,Nasugbu,44,2.0,2.25,84.7,9,21,4.7,0,2.25,0,0
+23-72033,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,3,Lian,51,2.0,2.5,84.8,6,21,15.0,1,2.5,0,0
+23-72034,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Business Administration,3,Tuy,46,1.5,2.0,83.9,11,21,21.8,0,1.75,0,0
+25-72035,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,1,Balayan,43,2.25,2.0,86.8,4,18,29.1,1,2.0,0,0
+25-72036,2024-25,1st,2024-25 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Taal,38,2.25,2.25,75.8,6,18,48.0,0,2.25,0,0
+23-72037,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,3,Nasugbu,58,1.25,2.25,87.4,11,21,4.5,1,2.75,0,0
+24-72038,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,2,Lian,42,2.0,2.0,100.0,14,21,11.6,1,1.75,0,0
+25-72039,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,1,Lian,58,2.5,2.75,95.6,6,21,12.0,0,3.0,0,0
+25-72040,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,34,1.75,1.5,80.6,12,18,8.8,1,1.75,0,0
+24-72041,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,2,Nasugbu,49,1.75,2.0,95.6,10,21,10.7,1,2.25,0,0
+22-72042,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BEED,4,Calaca,37,2.25,2.0,88.7,3,21,36.7,1,2.25,0,1
+22-72043,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BA Communication,4,Calatagan,40,1.25,1.75,82.8,14,21,28.6,1,1.5,0,1
+24-72044,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Lian,36,2.0,2.25,82.5,11,21,8.6,1,2.5,0,0
+24-72045,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,2,Tuy,34,2.25,2.25,78.6,10,21,24.0,0,2.0,0,0
+25-72046,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,1,Nasugbu,36,2.0,2.0,89.7,8,21,6.3,1,2.0,0,0
+24-72047,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,2,Lian,54,1.75,2.5,83.0,12,21,12.1,1,2.5,0,0
+24-72048,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,2,Tuy,30,1.75,2.0,93.4,11,24,19.1,1,1.75,0,0
+24-72049,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,2,Lian,44,1.5,1.75,99.8,7,18,8.0,1,1.25,0,0
+24-72050,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,2,Taal,28,2.0,1.75,78.6,10,24,52.2,1,1.25,0,0
+25-72051,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BA Communication,1,Tuy,48,2.25,2.25,94.0,7,15,17.4,1,2.5,0,0
+25-72052,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Hospitality Management,1,Nasugbu,47,2.75,3.0,85.1,4,15,6.3,0,2.75,1,0
+25-72053,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Balayan,55,2.0,2.0,81.4,14,24,24.7,1,2.25,0,0
+25-72054,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BA Communication,1,Nasugbu,30,2.25,2.25,96.4,7,18,4.0,1,2.0,0,0
+25-72055,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,1,Nasugbu,47,1.75,2.0,100.0,7,21,7.0,0,1.75,0,0
+22-72056,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,4,Nasugbu,54,1.5,2.25,100.0,7,21,3.9,1,2.5,0,1
+24-72057,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Lian,42,2.5,2.5,91.9,8,24,10.1,1,2.5,0,0
+24-72058,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Balayan,58,2.0,2.25,92.1,8,24,28.0,1,2.25,1,0
+22-72059,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,4,Lian,28,2.25,2.25,90.0,7,18,7.7,0,2.5,0,1
+22-72060,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Balayan,47,2.0,2.0,94.6,10,21,24.2,1,2.0,0,1
+24-72061,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,2,Lian,46,2.25,2.5,89.9,9,15,12.8,1,2.75,0,0
+23-72062,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Psychology,3,Nasugbu,45,2.25,1.75,96.6,10,21,3.4,1,1.5,0,0
+25-72063,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Balayan,39,2.25,2.25,77.4,7,24,29.8,1,2.0,0,0
+25-72064,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,1,Nasugbu,54,2.25,2.5,88.4,9,18,7.3,1,2.5,0,0
+24-72065,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,2,Nasugbu,54,2.25,2.5,95.9,11,21,7.5,1,2.5,0,0
+23-72066,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,3,Lian,41,1.75,1.75,93.1,12,21,6.9,1,1.5,0,0
+23-72067,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,3,Nasugbu,50,2.5,2.25,97.4,8,21,2.8,1,2.25,0,0
+25-72068,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,1,Nasugbu,49,2.0,2.0,91.2,7,24,5.8,1,2.25,0,0
+25-72069,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BSED,1,Tuy,42,2.25,2.0,80.4,12,15,20.9,1,2.0,0,0
+23-72070,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,3,Lian,33,2.25,2.25,85.6,6,21,16.6,1,1.75,1,0
+25-72071,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Lian,47,1.5,1.75,87.9,12,24,8.7,0,1.5,0,0
+24-72072,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,2,Calaca,54,2.5,2.5,85.5,8,21,38.9,1,3.0,0,0
+23-72073,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,3,Lian,57,2.25,2.0,82.2,12,15,11.9,1,2.5,0,0
+23-72074,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Psychology,3,Calatagan,47,3.0,2.75,81.4,7,21,29.9,0,2.75,0,0
+23-72075,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,3,Nasugbu,40,2.75,2.5,90.2,9,18,3.1,1,2.5,0,0
+22-72076,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Accountancy,4,Lian,44,2.25,2.5,73.0,12,18,11.7,1,2.5,0,1
+24-72077,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,2,Calatagan,53,2.5,2.75,91.6,7,24,29.7,1,3.0,0,0
+23-72078,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,3,Lian,46,2.5,2.5,89.3,5,21,5.8,1,2.25,0,0
+23-72079,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,3,Tuy,36,2.0,2.0,88.2,11,24,15.1,0,1.75,0,0
+25-72080,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,37,1.5,1.25,86.8,13,21,5.1,1,1.5,0,0
+25-72081,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,47,1.5,1.75,95.1,9,21,3.3,1,1.5,0,0
+25-72082,2024-25,1st,2024-25 1st,College of Teacher Education,CTE,BSED,1,Lian,57,2.25,2.5,83.6,8,15,9.5,1,2.5,0,0
+24-72083,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,2,Nasugbu,40,2.0,2.25,83.8,16,21,3.0,1,2.25,0,0
+23-72084,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,3,Calatagan,38,2.25,2.25,87.7,11,18,30.4,1,2.25,1,0
+22-72085,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,4,Nasugbu,43,2.5,2.25,93.4,6,24,3.4,1,2.25,1,0
+25-72086,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BA Communication,1,Calaca,46,2.5,3.0,73.8,5,18,31.4,1,3.0,1,0
+25-72087,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Calaca,46,2.0,2.25,92.9,5,18,39.0,1,2.25,1,0
+22-72088,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,4,Nasugbu,48,2.5,2.5,82.1,7,21,8.7,0,2.25,1,0
+25-72089,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,1,Nasugbu,46,1.75,2.0,88.1,9,18,1.0,1,2.0,0,0
+24-72090,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,2,Calatagan,40,1.75,2.0,95.3,3,18,32.8,1,2.25,0,0
+24-72091,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Calaca,36,2.5,2.5,69.7,7,21,35.0,1,2.5,0,0
+24-72092,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,2,Lian,45,2.0,1.5,74.9,13,15,10.6,1,1.75,0,0
+25-72093,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,1,Nasugbu,39,1.75,1.75,91.1,12,15,7.0,1,1.75,0,0
+25-72094,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,1,Lian,31,2.5,2.25,69.5,13,18,9.8,1,2.25,0,0
+25-72095,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,1,Tuy,37,2.5,2.5,70.7,7,21,19.3,1,2.5,0,0
+24-72096,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,2,Nasugbu,44,2.0,1.5,95.4,5,21,11.9,1,1.25,0,0
+24-72097,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Computer Science,2,Balayan,31,1.75,1.75,80.8,14,21,27.7,0,2.0,0,0
+25-72098,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,1,Nasugbu,57,1.75,2.0,100.0,12,21,8.9,1,2.25,0,0
+23-72099,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,3,Nasugbu,36,2.75,2.5,82.9,5,18,5.8,1,2.5,0,0
+22-72100,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,50,2.25,2.5,88.6,10,24,3.1,1,2.75,0,1
+25-72101,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,37,2.5,2.0,92.7,12,15,2.7,1,2.0,0,0
+24-72102,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,2,Nasugbu,30,2.0,1.75,91.8,10,21,4.5,1,1.5,0,0
+23-72103,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Lian,42,2.0,2.0,85.8,5,24,8.2,0,1.75,1,0
+25-72104,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,1,Nasugbu,29,2.5,2.25,84.2,9,21,2.3,1,2.25,0,0
+25-72105,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,44,2.5,2.25,90.3,10,18,3.4,1,2.5,0,0
+23-72106,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,3,Nasugbu,36,1.75,2.0,100.0,16,18,5.2,1,2.5,0,0
+22-72107,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,4,Calaca,46,1.75,1.75,88.9,12,21,40.6,0,1.75,0,1
+23-72108,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,3,Nasugbu,55,1.5,2.5,86.3,14,15,3.3,1,2.75,0,0
+24-72109,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Lian,36,2.0,1.75,81.9,13,21,12.2,1,1.5,0,0
+23-72110,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,3,Lian,43,2.25,2.5,85.1,12,21,6.9,1,2.25,0,0
+24-72111,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,2,Taal,43,2.25,2.25,70.0,9,21,50.7,1,1.75,1,0
+23-72112,2023-24,2nd,2023-24 2nd,College of Teacher Education,CTE,BEED,3,Nasugbu,34,2.25,2.0,90.2,7,15,1.0,1,2.0,0,0
+24-72113,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Tuy,30,2.75,2.75,90.9,8,21,21.5,1,3.0,0,0
+25-72114,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BA Communication,1,Tuy,31,2.25,2.25,84.9,8,21,19.3,1,2.25,1,0
+23-72115,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,3,Tuy,36,2.0,2.0,97.8,12,24,19.2,1,2.0,0,0
+24-72116,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Nasugbu,44,2.0,2.0,100.0,9,15,3.7,0,2.25,0,0
+24-72117,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,2,Tuy,46,2.0,2.0,88.3,11,15,16.2,1,2.5,0,0
+22-72118,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,4,Nasugbu,42,1.75,1.75,94.1,13,18,1.4,0,1.5,0,1
+25-72119,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Lian,53,2.0,1.5,82.4,4,18,13.1,1,1.0,0,0
+25-72120,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BA Communication,1,Balayan,33,1.75,1.5,81.1,12,21,28.0,1,1.5,0,0
+25-72121,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,1,Nasugbu,45,2.25,2.25,97.7,9,24,3.7,1,2.5,0,0
+23-72122,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,3,Calatagan,46,2.0,2.5,78.1,6,18,35.1,1,2.25,1,0
+23-72123,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,3,Nasugbu,57,2.25,2.75,100.0,8,24,4.8,1,3.0,0,0
+25-72124,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,1,Calatagan,55,2.25,2.25,93.1,2,15,32.0,1,2.25,1,0
+23-72125,2024-25,2nd,2024-25 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Lian,37,2.0,2.0,91.3,6,18,17.2,1,2.0,0,0
+24-72126,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,2,Nasugbu,38,2.25,1.75,81.8,11,15,6.4,1,1.5,0,0
+23-72127,2024-25,1st,2024-25 1st,CICS,CICS,BS Computer Science,3,Nasugbu,58,1.75,2.25,88.3,7,18,4.8,1,2.25,0,0
+24-72128,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Business Administration,2,Calaca,49,2.0,2.25,89.2,3,24,34.7,1,2.0,0,0
+24-72129,2023-24,2nd,2023-24 2nd,CICS,CICS,BS Information Technology,2,Nasugbu,36,2.25,2.25,80.8,11,15,6.9,1,2.25,0,0
+22-72130,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,4,Nasugbu,49,1.5,1.75,89.6,12,21,2.5,1,1.75,0,1
+25-72131,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,1,Nasugbu,32,2.0,2.0,94.3,9,21,2.3,1,2.0,0,0
+25-72132,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,1,Tuy,46,2.25,2.5,82.7,8,24,23.7,0,2.5,0,0
+24-72133,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Lian,46,2.5,2.25,81.0,8,18,11.1,0,2.0,0,0
+22-72134,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,4,Nasugbu,43,2.5,2.25,78.0,10,18,2.6,1,2.25,0,1
+24-72135,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Nasugbu,42,2.0,2.25,87.8,13,15,4.5,1,2.25,0,0
+25-72136,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Nasugbu,29,2.25,2.0,93.5,7,21,6.6,1,2.25,0,0
+25-72137,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Nasugbu,43,1.75,1.5,81.8,14,18,6.1,1,1.75,0,0
+24-72138,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,2,Nasugbu,52,2.0,2.5,90.2,6,24,6.9,1,2.25,0,0
+25-72139,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Tuy,35,2.5,2.5,84.4,7,21,16.4,1,2.5,0,0
+23-72140,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,3,Nasugbu,41,2.0,1.5,85.3,9,21,6.9,1,1.0,0,0
+22-72141,2024-25,1st,2024-25 1st,CICS,CICS,BS Information Technology,4,Nasugbu,43,2.0,2.0,96.7,5,21,4.1,1,2.25,0,1
+24-72142,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,2,Nasugbu,57,1.75,2.25,100.0,7,15,4.7,1,2.5,0,0
+24-72143,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Calaca,31,2.25,2.5,88.7,10,21,39.0,0,2.0,1,0
+24-72144,2023-24,2nd,2023-24 2nd,College of Arts and Sciences,CAS,BA Communication,2,Calaca,38,2.5,2.25,76.7,10,24,37.8,1,2.25,0,0
+25-72145,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Balayan,32,2.0,2.0,97.9,15,24,28.9,1,1.75,0,0
+22-72146,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Hospitality Management,4,Nasugbu,50,1.75,2.0,98.5,7,24,1.0,0,2.0,0,1
+24-72147,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Nasugbu,47,2.25,2.0,87.3,11,24,4.4,1,2.0,0,0
+24-72148,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BEED,2,Nasugbu,34,2.0,2.5,83.2,8,15,2.5,1,2.5,0,0
+23-72149,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,3,Nasugbu,42,2.0,1.75,96.1,11,18,6.3,1,2.0,0,0
+24-72150,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,2,Lian,50,1.75,2.0,90.1,8,15,13.5,1,2.0,1,0
+23-72151,2025-26,2nd,2025-26 2nd,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Balayan,41,2.25,2.25,77.7,5,18,27.2,1,2.0,1,0
+25-72152,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BSED,1,Calatagan,55,1.75,1.75,84.0,13,15,32.3,1,1.75,0,0
+23-72153,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BS Fisheries & Aquatic Sciences,3,Calatagan,57,2.0,2.75,81.0,14,21,37.9,1,2.75,0,0
+22-72154,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,40,2.25,2.25,82.8,9,21,3.0,0,2.25,0,1
+23-72155,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,3,Tuy,44,2.25,2.25,95.5,10,24,16.5,1,2.0,0,0
+22-72156,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BA Communication,4,Nasugbu,36,2.25,1.75,96.6,13,21,2.4,0,1.75,0,1
+25-72157,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,1,Nasugbu,31,1.25,1.75,94.7,9,24,3.1,1,2.0,0,0
+24-72158,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,2,Tuy,44,2.25,2.25,91.8,11,15,17.3,0,2.0,0,0
+24-72159,2023-24,1st,2023-24 1st,CICS,CICS,BS Computer Science,2,Nasugbu,56,2.0,2.5,83.6,15,15,6.6,1,2.75,0,0
+24-72160,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,2,Nasugbu,56,2.0,2.75,87.0,8,21,1.0,1,3.0,0,0
+24-72161,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Computer Eng Tech,2,Nasugbu,40,1.75,1.75,100.0,10,18,2.3,1,1.5,0,0
+25-72162,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Tuy,45,2.0,2.0,88.4,9,18,19.4,1,2.25,0,0
+25-72163,2025-26,1st,2025-26 1st,College of Teacher Education,CTE,BEED,1,Balayan,41,2.25,2.0,75.2,6,18,28.5,1,2.0,0,0
+24-72164,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BSED,2,Nasugbu,54,2.25,2.25,91.3,8,18,8.7,1,2.0,0,0
+25-72165,2025-26,1st,2025-26 1st,CICS,CICS,BS Information Technology,1,Balayan,48,2.0,2.25,89.8,8,21,31.9,0,2.0,0,0
+23-72166,2025-26,1st,2025-26 1st,CICS,CICS,BS Computer Science,3,Nasugbu,36,1.25,1.75,95.1,15,21,1.0,0,1.75,0,0
+25-72167,2024-25,2nd,2024-25 2nd,College of Teacher Education,CTE,BEED,1,Lian,30,2.0,2.5,81.3,7,21,6.2,1,2.5,1,0
+25-72168,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electronics Eng Tech,1,Tuy,50,1.5,2.0,100.0,9,21,19.6,1,2.25,0,0
+24-72169,2023-24,2nd,2023-24 2nd,CABEIHM,CABEIHM,BS Business Administration,2,Tuy,42,2.75,2.5,74.9,6,18,17.8,1,2.5,0,0
+24-72170,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Accountancy,2,Taal,29,2.25,2.0,81.1,5,18,45.0,1,2.0,0,0
+22-72171,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Business Administration,4,Nasugbu,41,2.0,2.0,100.0,16,18,4.5,0,2.0,0,1
+24-72172,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,2,Tuy,44,2.25,2.0,91.7,9,18,20.1,1,2.0,0,0
+25-72173,2023-24,2nd,2023-24 2nd,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Tuy,34,2.0,2.25,91.8,10,21,17.4,0,2.25,0,0
+23-72174,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Business Administration,3,Lemery,44,2.25,2.25,75.4,7,21,42.4,1,2.0,1,0
+24-72175,2024-25,2nd,2024-25 2nd,College of Engineering Technology,CET,BS Electronics Eng Tech,2,Nasugbu,45,1.75,2.0,91.3,15,21,2.6,1,1.5,0,0
+25-72176,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Balayan,46,1.75,2.0,85.8,3,18,27.0,1,1.75,0,0
+24-72177,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Hospitality Management,2,Lian,47,2.25,2.5,80.9,7,21,12.4,1,2.5,0,0
+22-72178,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Computer Eng Tech,4,Nasugbu,45,2.0,2.0,97.4,7,21,1.8,1,1.5,0,1
+24-72179,2024-25,2nd,2024-25 2nd,CABEIHM,CABEIHM,BS Hospitality Management,2,Lian,42,2.25,2.0,81.5,6,21,9.4,0,1.75,0,0
+25-72180,2025-26,2nd,2025-26 2nd,CABEIHM,CABEIHM,BS Accountancy,1,Nasugbu,28,2.25,2.0,83.6,9,21,3.5,1,2.25,1,0
+25-72181,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,1,Lian,46,1.75,1.5,92.4,11,21,11.0,1,1.75,0,0
+25-72182,2025-26,1st,2025-26 1st,College of Arts and Sciences,CAS,BA Communication,1,Calatagan,57,2.0,2.25,83.5,14,21,34.7,1,2.25,0,0
+24-72183,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,2,Lian,38,2.0,1.75,87.3,8,21,16.1,1,1.5,0,0
+24-72184,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,2,Tuy,42,2.25,2.25,85.8,13,15,20.9,1,2.0,0,0
+25-72185,2025-26,2nd,2025-26 2nd,College of Teacher Education,CTE,BSED,1,Lian,41,2.0,1.0,97.0,14,21,12.5,1,1.0,0,0
+22-72186,2025-26,1st,2025-26 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,4,Nasugbu,49,2.0,2.25,84.1,9,18,3.8,1,2.5,0,1
+23-72187,2023-24,1st,2023-24 1st,College of Teacher Education,CTE,BEED,3,Nasugbu,42,2.0,1.75,87.7,6,15,2.1,0,2.0,0,0
+24-72188,2024-25,1st,2024-25 1st,CABEIHM,CABEIHM,BS Hospitality Management,2,Lian,43,1.75,1.5,93.0,14,24,9.7,1,1.0,0,0
+22-72189,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,36,2.0,2.5,83.8,8,24,2.7,0,2.25,0,1
+25-72190,2023-24,1st,2023-24 1st,College of Engineering Technology,CET,BS Electrical Eng Tech,1,Nasugbu,57,2.25,2.5,83.0,6,15,5.5,1,2.25,0,0
+24-72191,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Information Technology,2,Lian,43,1.75,2.0,88.9,10,21,6.9,0,2.0,0,0
+23-72192,2024-25,1st,2024-25 1st,College of Engineering Technology,CET,BS Computer Eng Tech,3,Nasugbu,47,2.0,1.75,96.5,12,18,6.0,1,1.75,0,0
+22-72193,2024-25,2nd,2024-25 2nd,CICS,CICS,BS Computer Science,4,Nasugbu,40,1.75,2.0,95.6,5,21,4.2,1,2.0,0,1
+23-72194,2023-24,1st,2023-24 1st,College of Arts and Sciences,CAS,BS Psychology,3,Lian,48,1.75,2.0,89.6,8,24,12.8,0,2.25,0,0
+25-72195,2025-26,2nd,2025-26 2nd,College of Engineering Technology,CET,BS Computer Eng Tech,1,Nasugbu,38,2.75,2.5,83.9,10,24,2.7,1,2.5,0,0
+22-72196,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Computer Science,4,Lemery,38,2.5,2.75,82.9,2,21,41.7,1,2.5,1,0
+25-72197,2025-26,2nd,2025-26 2nd,CICS,CICS,BS Information Technology,1,Calatagan,33,2.0,1.75,86.8,11,18,33.0,1,1.75,0,0
+22-72198,2025-26,1st,2025-26 1st,CABEIHM,CABEIHM,BS Accountancy,4,Tuy,58,2.0,2.5,89.7,7,21,18.4,0,2.25,0,1
+22-72199,2023-24,1st,2023-24 1st,CABEIHM,CABEIHM,BS Accountancy,4,Nasugbu,39,1.5,1.75,99.1,9,18,6.5,1,2.0,0,1
